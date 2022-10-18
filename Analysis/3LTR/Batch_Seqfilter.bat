@@ -1,0 +1,12 @@
+perl BatchFilter_2internal.pl
+perl BatchFilter_3len20.pl
+perl BatchFilter_4q20.pl
+perl BatchFilter_5UniquePair.pl
+perl BatchFilter_6UniquePairCount.pl
+
+rm PEread_LTR_Linker.txt
+rm PEread_LTR_NonInternal_linker.txt
+rm PEread_LTR_nonInternal_linker_long.txt
+rm PEread_LTR_nonInternal_linker_long_UniquePair.txt
+rm PEread_LTR_nonInternal_linker_long_q20.txt
+

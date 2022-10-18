@@ -1,0 +1,3528 @@
+
+1CGTGAT2TAGCTT.txt
+PEread internal: 10197
+PEread nonInternal: 77303
+PEread short insert <20bp: 14788
+PEread long insert >=20bp: 62515
+Before filter q20: 62515
+After filter q20: 5605
+Total nonInternal Read long: 5605
+Total Unique NonInternal Read Long Pair:  1020
+Total nonInternal Read long: 5605
+Total Unique NonInternal Read Long Pair with counts:  1020
+
+1ACATCG2TAGCTT.txt
+PEread internal: 13137
+PEread nonInternal: 105579
+PEread short insert <20bp: 23051
+PEread long insert >=20bp: 82528
+Before filter q20: 82528
+After filter q20: 16860
+Total nonInternal Read long: 16860
+Total Unique NonInternal Read Long Pair:  1494
+Total nonInternal Read long: 16860
+Total Unique NonInternal Read Long Pair with counts:  1494
+
+1GCCTAA2TAGCTT.txt
+PEread internal: 13297
+PEread nonInternal: 97761
+PEread short insert <20bp: 17339
+PEread long insert >=20bp: 80422
+Before filter q20: 80422
+After filter q20: 6309
+Total nonInternal Read long: 6309
+Total Unique NonInternal Read Long Pair:  1318
+Total nonInternal Read long: 6309
+Total Unique NonInternal Read Long Pair with counts:  1318
+
+1TGGTCA2TAGCTT.txt
+PEread internal: 13605
+PEread nonInternal: 96731
+PEread short insert <20bp: 19374
+PEread long insert >=20bp: 77357
+Before filter q20: 77357
+After filter q20: 6941
+Total nonInternal Read long: 6941
+Total Unique NonInternal Read Long Pair:  1350
+Total nonInternal Read long: 6941
+Total Unique NonInternal Read Long Pair with counts:  1350
+
+1CACTGT2TAGCTT.txt
+PEread internal: 10545
+PEread nonInternal: 104337
+PEread short insert <20bp: 18826
+PEread long insert >=20bp: 85511
+Before filter q20: 85511
+After filter q20: 13821
+Total nonInternal Read long: 13821
+Total Unique NonInternal Read Long Pair:  1230
+Total nonInternal Read long: 13821
+Total Unique NonInternal Read Long Pair with counts:  1230
+
+1TGACCA2TAGCTT.txt
+PEread internal: 13631
+PEread nonInternal: 85399
+PEread short insert <20bp: 14470
+PEread long insert >=20bp: 70929
+Before filter q20: 70929
+After filter q20: 6803
+Total nonInternal Read long: 6803
+Total Unique NonInternal Read Long Pair:  1233
+Total nonInternal Read long: 6803
+Total Unique NonInternal Read Long Pair with counts:  1233
+
+1CGTACG2TAGCTT.txt
+PEread internal: 12839
+PEread nonInternal: 89598
+PEread short insert <20bp: 14988
+PEread long insert >=20bp: 74610
+Before filter q20: 74610
+After filter q20: 6248
+Total nonInternal Read long: 6248
+Total Unique NonInternal Read Long Pair:  1205
+Total nonInternal Read long: 6248
+Total Unique NonInternal Read Long Pair with counts:  1205
+
+1CGTGAT2CTTGTA.txt
+PEread internal: 11111
+PEread nonInternal: 85288
+PEread short insert <20bp: 13237
+PEread long insert >=20bp: 72051
+Before filter q20: 72051
+After filter q20: 13070
+Total nonInternal Read long: 13070
+Total Unique NonInternal Read Long Pair:  1090
+Total nonInternal Read long: 13070
+Total Unique NonInternal Read Long Pair with counts:  1090
+
+1ACATCG2CTTGTA.txt
+PEread internal: 15877
+PEread nonInternal: 83040
+PEread short insert <20bp: 15884
+PEread long insert >=20bp: 67156
+Before filter q20: 67156
+After filter q20: 7850
+Total nonInternal Read long: 7850
+Total Unique NonInternal Read Long Pair:  1424
+Total nonInternal Read long: 7850
+Total Unique NonInternal Read Long Pair with counts:  1424
+
+1GCCTAA2CTTGTA.txt
+PEread internal: 9447
+PEread nonInternal: 92232
+PEread short insert <20bp: 13695
+PEread long insert >=20bp: 78537
+Before filter q20: 78537
+After filter q20: 14057
+Total nonInternal Read long: 14057
+Total Unique NonInternal Read Long Pair:  1107
+Total nonInternal Read long: 14057
+Total Unique NonInternal Read Long Pair with counts:  1107
+
+1TGGTCA2CTTGTA.txt
+PEread internal: 14817
+PEread nonInternal: 90314
+PEread short insert <20bp: 16918
+PEread long insert >=20bp: 73396
+Before filter q20: 73396
+After filter q20: 7473
+Total nonInternal Read long: 7473
+Total Unique NonInternal Read Long Pair:  1368
+Total nonInternal Read long: 7473
+Total Unique NonInternal Read Long Pair with counts:  1368
+
+1CACTGT2CTTGTA.txt
+PEread internal: 9516
+PEread nonInternal: 102052
+PEread short insert <20bp: 16732
+PEread long insert >=20bp: 85320
+Before filter q20: 85320
+After filter q20: 13179
+Total nonInternal Read long: 13179
+Total Unique NonInternal Read Long Pair:  1227
+Total nonInternal Read long: 13179
+Total Unique NonInternal Read Long Pair with counts:  1227
+
+1TGACCA2CTTGTA.txt
+PEread internal: 13630
+PEread nonInternal: 94118
+PEread short insert <20bp: 14590
+PEread long insert >=20bp: 79528
+Before filter q20: 79528
+After filter q20: 6331
+Total nonInternal Read long: 6331
+Total Unique NonInternal Read Long Pair:  1247
+Total nonInternal Read long: 6331
+Total Unique NonInternal Read Long Pair with counts:  1247
+
+1CGTACG2CTTGTA.txt
+PEread internal: 8437
+PEread nonInternal: 81099
+PEread short insert <20bp: 10643
+PEread long insert >=20bp: 70456
+Before filter q20: 70456
+After filter q20: 12001
+Total nonInternal Read long: 12001
+Total Unique NonInternal Read Long Pair:  973
+Total nonInternal Read long: 12001
+Total Unique NonInternal Read Long Pair with counts:  973
+
+1CGTGAT2ATTGGC.txt
+PEread internal: 11647
+PEread nonInternal: 119250
+PEread short insert <20bp: 21412
+PEread long insert >=20bp: 97838
+Before filter q20: 97838
+After filter q20: 14617
+Total nonInternal Read long: 14617
+Total Unique NonInternal Read Long Pair:  1889
+Total nonInternal Read long: 14617
+Total Unique NonInternal Read Long Pair with counts:  1889
+
+1ACATCG2ATTGGC.txt
+PEread internal: 13940
+PEread nonInternal: 107454
+PEread short insert <20bp: 22664
+PEread long insert >=20bp: 84790
+Before filter q20: 84790
+After filter q20: 14259
+Total nonInternal Read long: 14259
+Total Unique NonInternal Read Long Pair:  2165
+Total nonInternal Read long: 14259
+Total Unique NonInternal Read Long Pair with counts:  2165
+
+1GCCTAA2ATTGGC.txt
+PEread internal: 12029
+PEread nonInternal: 117633
+PEread short insert <20bp: 19935
+PEread long insert >=20bp: 97698
+Before filter q20: 97698
+After filter q20: 14984
+Total nonInternal Read long: 14984
+Total Unique NonInternal Read Long Pair:  2031
+Total nonInternal Read long: 14984
+Total Unique NonInternal Read Long Pair with counts:  2031
+
+1TGGTCA2ATTGGC.txt
+PEread internal: 14432
+PEread nonInternal: 105991
+PEread short insert <20bp: 19772
+PEread long insert >=20bp: 86219
+Before filter q20: 86219
+After filter q20: 13312
+Total nonInternal Read long: 13312
+Total Unique NonInternal Read Long Pair:  1881
+Total nonInternal Read long: 13312
+Total Unique NonInternal Read Long Pair with counts:  1881
+
+1CACTGT2ATTGGC.txt
+PEread internal: 14549
+PEread nonInternal: 126466
+PEread short insert <20bp: 20430
+PEread long insert >=20bp: 106036
+Before filter q20: 106036
+After filter q20: 7542
+Total nonInternal Read long: 7542
+Total Unique NonInternal Read Long Pair:  1626
+Total nonInternal Read long: 7542
+Total Unique NonInternal Read Long Pair with counts:  1626
+
+1TGACCA2ATTGGC.txt
+PEread internal: 12218
+PEread nonInternal: 86221
+PEread short insert <20bp: 14612
+PEread long insert >=20bp: 71609
+Before filter q20: 71609
+After filter q20: 9042
+Total nonInternal Read long: 9042
+Total Unique NonInternal Read Long Pair:  1504
+Total nonInternal Read long: 9042
+Total Unique NonInternal Read Long Pair with counts:  1504
+
+1CGTACG2ATTGGC.txt
+PEread internal: 15052
+PEread nonInternal: 111521
+PEread short insert <20bp: 16135
+PEread long insert >=20bp: 95386
+Before filter q20: 95386
+After filter q20: 6552
+Total nonInternal Read long: 6552
+Total Unique NonInternal Read Long Pair:  1438
+Total nonInternal Read long: 6552
+Total Unique NonInternal Read Long Pair with counts:  1438
+
+1CGTGAT2GATCTG.txt
+PEread internal: 12223
+PEread nonInternal: 87594
+PEread short insert <20bp: 17025
+PEread long insert >=20bp: 70569
+Before filter q20: 70569
+After filter q20: 6456
+Total nonInternal Read long: 6456
+Total Unique NonInternal Read Long Pair:  1250
+Total nonInternal Read long: 6456
+Total Unique NonInternal Read Long Pair with counts:  1250
+
+1ACATCG2GATCTG.txt
+PEread internal: 11619
+PEread nonInternal: 94293
+PEread short insert <20bp: 17609
+PEread long insert >=20bp: 76684
+Before filter q20: 76684
+After filter q20: 11306
+Total nonInternal Read long: 11306
+Total Unique NonInternal Read Long Pair:  1595
+Total nonInternal Read long: 11306
+Total Unique NonInternal Read Long Pair with counts:  1595
+
+1GCCTAA2GATCTG.txt
+PEread internal: 13482
+PEread nonInternal: 107007
+PEread short insert <20bp: 20420
+PEread long insert >=20bp: 86587
+Before filter q20: 86587
+After filter q20: 7248
+Total nonInternal Read long: 7248
+Total Unique NonInternal Read Long Pair:  1483
+Total nonInternal Read long: 7248
+Total Unique NonInternal Read Long Pair with counts:  1483
+
+1TGGTCA2GATCTG.txt
+PEread internal: 12327
+PEread nonInternal: 101125
+PEread short insert <20bp: 19244
+PEread long insert >=20bp: 81881
+Before filter q20: 81881
+After filter q20: 10381
+Total nonInternal Read long: 10381
+Total Unique NonInternal Read Long Pair:  1546
+Total nonInternal Read long: 10381
+Total Unique NonInternal Read Long Pair with counts:  1546
+
+1CACTGT2GATCTG.txt
+PEread internal: 13227
+PEread nonInternal: 103558
+PEread short insert <20bp: 16256
+PEread long insert >=20bp: 87302
+Before filter q20: 87302
+After filter q20: 8564
+Total nonInternal Read long: 8564
+Total Unique NonInternal Read Long Pair:  1339
+Total nonInternal Read long: 8564
+Total Unique NonInternal Read Long Pair with counts:  1339
+
+1TGACCA2GATCTG.txt
+PEread internal: 10385
+PEread nonInternal: 88345
+PEread short insert <20bp: 14109
+PEread long insert >=20bp: 74236
+Before filter q20: 74236
+After filter q20: 6918
+Total nonInternal Read long: 6918
+Total Unique NonInternal Read Long Pair:  1255
+Total nonInternal Read long: 6918
+Total Unique NonInternal Read Long Pair with counts:  1255
+
+1CGTACG2GATCTG.txt
+PEread internal: 9726
+PEread nonInternal: 84928
+PEread short insert <20bp: 12233
+PEread long insert >=20bp: 72695
+Before filter q20: 72695
+After filter q20: 10094
+Total nonInternal Read long: 10094
+Total Unique NonInternal Read Long Pair:  1029
+Total nonInternal Read long: 10094
+Total Unique NonInternal Read Long Pair with counts:  1029
+
+1CGTGAT2TAGCTT.txt
+PEread internal: 10295
+PEread nonInternal: 89346
+PEread short insert <20bp: 14438
+PEread long insert >=20bp: 74908
+Before filter q20: 74908
+After filter q20: 10974
+Total nonInternal Read long: 10974
+Total Unique NonInternal Read Long Pair:  2184
+Total nonInternal Read long: 10974
+Total Unique NonInternal Read Long Pair with counts:  2184
+
+1ACATCG2TAGCTT.txt
+PEread internal: 17023
+PEread nonInternal: 120328
+PEread short insert <20bp: 19907
+PEread long insert >=20bp: 100421
+Before filter q20: 100421
+After filter q20: 20270
+Total nonInternal Read long: 20270
+Total Unique NonInternal Read Long Pair:  3312
+Total nonInternal Read long: 20270
+Total Unique NonInternal Read Long Pair with counts:  3312
+
+1GCCTAA2TAGCTT.txt
+PEread internal: 17708
+PEread nonInternal: 124050
+PEread short insert <20bp: 17152
+PEread long insert >=20bp: 106898
+Before filter q20: 106898
+After filter q20: 13946
+Total nonInternal Read long: 13946
+Total Unique NonInternal Read Long Pair:  2270
+Total nonInternal Read long: 13946
+Total Unique NonInternal Read Long Pair with counts:  2270
+
+1TGGTCA2TAGCTT.txt
+PEread internal: 12029
+PEread nonInternal: 96238
+PEread short insert <20bp: 16741
+PEread long insert >=20bp: 79497
+Before filter q20: 79497
+After filter q20: 17753
+Total nonInternal Read long: 17753
+Total Unique NonInternal Read Long Pair:  2282
+Total nonInternal Read long: 17753
+Total Unique NonInternal Read Long Pair with counts:  2282
+
+1CACTGT2TAGCTT.txt
+PEread internal: 16777
+PEread nonInternal: 128386
+PEread short insert <20bp: 18871
+PEread long insert >=20bp: 109515
+Before filter q20: 109515
+After filter q20: 18293
+Total nonInternal Read long: 18293
+Total Unique NonInternal Read Long Pair:  3031
+Total nonInternal Read long: 18293
+Total Unique NonInternal Read Long Pair with counts:  3031
+
+1TGACCA2TAGCTT.txt
+PEread internal: 11013
+PEread nonInternal: 94421
+PEread short insert <20bp: 10271
+PEread long insert >=20bp: 84150
+Before filter q20: 84150
+After filter q20: 12369
+Total nonInternal Read long: 12369
+Total Unique NonInternal Read Long Pair:  2186
+Total nonInternal Read long: 12369
+Total Unique NonInternal Read Long Pair with counts:  2186
+
+1CGTACG2TAGCTT.txt
+PEread internal: 12063
+PEread nonInternal: 85670
+PEread short insert <20bp: 10148
+PEread long insert >=20bp: 75522
+Before filter q20: 75522
+After filter q20: 11159
+Total nonInternal Read long: 11159
+Total Unique NonInternal Read Long Pair:  2004
+Total nonInternal Read long: 11159
+Total Unique NonInternal Read Long Pair with counts:  2004
+
+1CGTGAT2CTTGTA.txt
+PEread internal: 15844
+PEread nonInternal: 77060
+PEread short insert <20bp: 14284
+PEread long insert >=20bp: 62776
+Before filter q20: 62776
+After filter q20: 9514
+Total nonInternal Read long: 9514
+Total Unique NonInternal Read Long Pair:  2157
+Total nonInternal Read long: 9514
+Total Unique NonInternal Read Long Pair with counts:  2157
+
+1ACATCG2CTTGTA.txt
+PEread internal: 17520
+PEread nonInternal: 109418
+PEread short insert <20bp: 15511
+PEread long insert >=20bp: 93907
+Before filter q20: 93907
+After filter q20: 10839
+Total nonInternal Read long: 10839
+Total Unique NonInternal Read Long Pair:  2085
+Total nonInternal Read long: 10839
+Total Unique NonInternal Read Long Pair with counts:  2085
+
+1GCCTAA2CTTGTA.txt
+PEread internal: 15203
+PEread nonInternal: 125408
+PEread short insert <20bp: 19344
+PEread long insert >=20bp: 106064
+Before filter q20: 106064
+After filter q20: 17032
+Total nonInternal Read long: 17032
+Total Unique NonInternal Read Long Pair:  2961
+Total nonInternal Read long: 17032
+Total Unique NonInternal Read Long Pair with counts:  2961
+
+1TGGTCA2CTTGTA.txt
+PEread internal: 17314
+PEread nonInternal: 84473
+PEread short insert <20bp: 13498
+PEread long insert >=20bp: 70975
+Before filter q20: 70975
+After filter q20: 13665
+Total nonInternal Read long: 13665
+Total Unique NonInternal Read Long Pair:  1968
+Total nonInternal Read long: 13665
+Total Unique NonInternal Read Long Pair with counts:  1968
+
+1CACTGT2CTTGTA.txt
+PEread internal: 18693
+PEread nonInternal: 121103
+PEread short insert <20bp: 20768
+PEread long insert >=20bp: 100335
+Before filter q20: 100335
+After filter q20: 12887
+Total nonInternal Read long: 12887
+Total Unique NonInternal Read Long Pair:  2272
+Total nonInternal Read long: 12887
+Total Unique NonInternal Read Long Pair with counts:  2272
+
+1TGACCA2CTTGTA.txt
+PEread internal: 10723
+PEread nonInternal: 92728
+PEread short insert <20bp: 11239
+PEread long insert >=20bp: 81489
+Before filter q20: 81489
+After filter q20: 14603
+Total nonInternal Read long: 14603
+Total Unique NonInternal Read Long Pair:  1643
+Total nonInternal Read long: 14603
+Total Unique NonInternal Read Long Pair with counts:  1643
+
+1CGTACG2CTTGTA.txt
+PEread internal: 11304
+PEread nonInternal: 83599
+PEread short insert <20bp: 9410
+PEread long insert >=20bp: 74189
+Before filter q20: 74189
+After filter q20: 12494
+Total nonInternal Read long: 12494
+Total Unique NonInternal Read Long Pair:  2091
+Total nonInternal Read long: 12494
+Total Unique NonInternal Read Long Pair with counts:  2091
+
+1CGTGAT2ATTGGC.txt
+PEread internal: 11985
+PEread nonInternal: 104147
+PEread short insert <20bp: 15739
+PEread long insert >=20bp: 88408
+Before filter q20: 88408
+After filter q20: 16397
+Total nonInternal Read long: 16397
+Total Unique NonInternal Read Long Pair:  3655
+Total nonInternal Read long: 16397
+Total Unique NonInternal Read Long Pair with counts:  3655
+
+1ACATCG2ATTGGC.txt
+PEread internal: 16340
+PEread nonInternal: 136347
+PEread short insert <20bp: 22175
+PEread long insert >=20bp: 114172
+Before filter q20: 114172
+After filter q20: 19251
+Total nonInternal Read long: 19251
+Total Unique NonInternal Read Long Pair:  4412
+Total nonInternal Read long: 19251
+Total Unique NonInternal Read Long Pair with counts:  4412
+
+1GCCTAA2ATTGGC.txt
+PEread internal: 14113
+PEread nonInternal: 148078
+PEread short insert <20bp: 23247
+PEread long insert >=20bp: 124831
+Before filter q20: 124831
+After filter q20: 24333
+Total nonInternal Read long: 24333
+Total Unique NonInternal Read Long Pair:  4358
+Total nonInternal Read long: 24333
+Total Unique NonInternal Read Long Pair with counts:  4358
+
+1TGGTCA2ATTGGC.txt
+PEread internal: 12734
+PEread nonInternal: 106486
+PEread short insert <20bp: 18716
+PEread long insert >=20bp: 87770
+Before filter q20: 87770
+After filter q20: 16561
+Total nonInternal Read long: 16561
+Total Unique NonInternal Read Long Pair:  3436
+Total nonInternal Read long: 16561
+Total Unique NonInternal Read Long Pair with counts:  3436
+
+1CACTGT2ATTGGC.txt
+PEread internal: 18385
+PEread nonInternal: 148282
+PEread short insert <20bp: 26073
+PEread long insert >=20bp: 122209
+Before filter q20: 122209
+After filter q20: 13622
+Total nonInternal Read long: 13622
+Total Unique NonInternal Read Long Pair:  3450
+Total nonInternal Read long: 13622
+Total Unique NonInternal Read Long Pair with counts:  3450
+
+1TGACCA2ATTGGC.txt
+PEread internal: 11626
+PEread nonInternal: 103902
+PEread short insert <20bp: 11314
+PEread long insert >=20bp: 92588
+Before filter q20: 92588
+After filter q20: 15077
+Total nonInternal Read long: 15077
+Total Unique NonInternal Read Long Pair:  2578
+Total nonInternal Read long: 15077
+Total Unique NonInternal Read Long Pair with counts:  2578
+
+1CGTACG2ATTGGC.txt
+PEread internal: 10419
+PEread nonInternal: 98648
+PEread short insert <20bp: 12182
+PEread long insert >=20bp: 86466
+Before filter q20: 86466
+After filter q20: 14113
+Total nonInternal Read long: 14113
+Total Unique NonInternal Read Long Pair:  2755
+Total nonInternal Read long: 14113
+Total Unique NonInternal Read Long Pair with counts:  2755
+
+1CGTGAT2GATCTG.txt
+PEread internal: 9560
+PEread nonInternal: 82609
+PEread short insert <20bp: 12865
+PEread long insert >=20bp: 69744
+Before filter q20: 69744
+After filter q20: 11963
+Total nonInternal Read long: 11963
+Total Unique NonInternal Read Long Pair:  2100
+Total nonInternal Read long: 11963
+Total Unique NonInternal Read Long Pair with counts:  2100
+
+1ACATCG2GATCTG.txt
+PEread internal: 11260
+PEread nonInternal: 107579
+PEread short insert <20bp: 17241
+PEread long insert >=20bp: 90338
+Before filter q20: 90338
+After filter q20: 14861
+Total nonInternal Read long: 14861
+Total Unique NonInternal Read Long Pair:  2260
+Total nonInternal Read long: 14861
+Total Unique NonInternal Read Long Pair with counts:  2260
+
+1CGTGAT2TAGCTT.txt
+PEread internal: 10850
+PEread nonInternal: 89685
+PEread short insert <20bp: 10389
+PEread long insert >=20bp: 79296
+Before filter q20: 79296
+After filter q20: 10526
+Total nonInternal Read long: 10526
+Total Unique NonInternal Read Long Pair:  1579
+Total nonInternal Read long: 10526
+Total Unique NonInternal Read Long Pair with counts:  1579
+
+1ACATCG2TAGCTT.txt
+PEread internal: 12943
+PEread nonInternal: 91764
+PEread short insert <20bp: 12329
+PEread long insert >=20bp: 79435
+Before filter q20: 79435
+After filter q20: 15539
+Total nonInternal Read long: 15539
+Total Unique NonInternal Read Long Pair:  1976
+Total nonInternal Read long: 15539
+Total Unique NonInternal Read Long Pair with counts:  1976
+
+1GCCTAA2TAGCTT.txt
+PEread internal: 13773
+PEread nonInternal: 90584
+PEread short insert <20bp: 12979
+PEread long insert >=20bp: 77605
+Before filter q20: 77605
+After filter q20: 9093
+Total nonInternal Read long: 9093
+Total Unique NonInternal Read Long Pair:  1707
+Total nonInternal Read long: 9093
+Total Unique NonInternal Read Long Pair with counts:  1707
+
+1TGGTCA2TAGCTT.txt
+PEread internal: 18417
+PEread nonInternal: 87189
+PEread short insert <20bp: 10109
+PEread long insert >=20bp: 77080
+Before filter q20: 77080
+After filter q20: 6948
+Total nonInternal Read long: 6948
+Total Unique NonInternal Read Long Pair:  1286
+Total nonInternal Read long: 6948
+Total Unique NonInternal Read Long Pair with counts:  1286
+
+1CACTGT2TAGCTT.txt
+PEread internal: 16387
+PEread nonInternal: 96490
+PEread short insert <20bp: 12654
+PEread long insert >=20bp: 83836
+Before filter q20: 83836
+After filter q20: 5834
+Total nonInternal Read long: 5834
+Total Unique NonInternal Read Long Pair:  1293
+Total nonInternal Read long: 5834
+Total Unique NonInternal Read Long Pair with counts:  1293
+
+1TGACCA2TAGCTT.txt
+PEread internal: 10283
+PEread nonInternal: 89470
+PEread short insert <20bp: 9071
+PEread long insert >=20bp: 80399
+Before filter q20: 80399
+After filter q20: 11403
+Total nonInternal Read long: 11403
+Total Unique NonInternal Read Long Pair:  1733
+Total nonInternal Read long: 11403
+Total Unique NonInternal Read Long Pair with counts:  1733
+
+1CGTACG2TAGCTT.txt
+PEread internal: 9102
+PEread nonInternal: 86929
+PEread short insert <20bp: 8391
+PEread long insert >=20bp: 78538
+Before filter q20: 78538
+After filter q20: 12035
+Total nonInternal Read long: 12035
+Total Unique NonInternal Read Long Pair:  2137
+Total nonInternal Read long: 12035
+Total Unique NonInternal Read Long Pair with counts:  2137
+
+1CGTGAT2CTTGTA.txt
+PEread internal: 13300
+PEread nonInternal: 96532
+PEread short insert <20bp: 14084
+PEread long insert >=20bp: 82448
+Before filter q20: 82448
+After filter q20: 12668
+Total nonInternal Read long: 12668
+Total Unique NonInternal Read Long Pair:  2168
+Total nonInternal Read long: 12668
+Total Unique NonInternal Read Long Pair with counts:  2168
+
+1ACATCG2CTTGTA.txt
+PEread internal: 15047
+PEread nonInternal: 105106
+PEread short insert <20bp: 16751
+PEread long insert >=20bp: 88355
+Before filter q20: 88355
+After filter q20: 16793
+Total nonInternal Read long: 16793
+Total Unique NonInternal Read Long Pair:  2230
+Total nonInternal Read long: 16793
+Total Unique NonInternal Read Long Pair with counts:  2230
+
+1GCCTAA2CTTGTA.txt
+PEread internal: 12984
+PEread nonInternal: 108680
+PEread short insert <20bp: 17044
+PEread long insert >=20bp: 91636
+Before filter q20: 91636
+After filter q20: 14335
+Total nonInternal Read long: 14335
+Total Unique NonInternal Read Long Pair:  2306
+Total nonInternal Read long: 14335
+Total Unique NonInternal Read Long Pair with counts:  2306
+
+1TGGTCA2CTTGTA.txt
+PEread internal: 15423
+PEread nonInternal: 102357
+PEread short insert <20bp: 13835
+PEread long insert >=20bp: 88522
+Before filter q20: 88522
+After filter q20: 14350
+Total nonInternal Read long: 14350
+Total Unique NonInternal Read Long Pair:  1915
+Total nonInternal Read long: 14350
+Total Unique NonInternal Read Long Pair with counts:  1915
+
+1CACTGT2CTTGTA.txt
+PEread internal: 9905
+PEread nonInternal: 113403
+PEread short insert <20bp: 16389
+PEread long insert >=20bp: 97014
+Before filter q20: 97014
+After filter q20: 17384
+Total nonInternal Read long: 17384
+Total Unique NonInternal Read Long Pair:  2481
+Total nonInternal Read long: 17384
+Total Unique NonInternal Read Long Pair with counts:  2481
+
+1TGACCA2CTTGTA.txt
+PEread internal: 13344
+PEread nonInternal: 89298
+PEread short insert <20bp: 11157
+PEread long insert >=20bp: 78141
+Before filter q20: 78141
+After filter q20: 9942
+Total nonInternal Read long: 9942
+Total Unique NonInternal Read Long Pair:  1766
+Total nonInternal Read long: 9942
+Total Unique NonInternal Read Long Pair with counts:  1766
+
+1CGTACG2CTTGTA.txt
+PEread internal: 14978
+PEread nonInternal: 82348
+PEread short insert <20bp: 10733
+PEread long insert >=20bp: 71615
+Before filter q20: 71615
+After filter q20: 8381
+Total nonInternal Read long: 8381
+Total Unique NonInternal Read Long Pair:  1445
+Total nonInternal Read long: 8381
+Total Unique NonInternal Read Long Pair with counts:  1445
+
+1CGTGAT2ATTGGC.txt
+PEread internal: 3993
+PEread nonInternal: 22717
+PEread short insert <20bp: 184
+PEread long insert >=20bp: 22533
+Before filter q20: 22533
+After filter q20: 1282
+Total nonInternal Read long: 1282
+Total Unique NonInternal Read Long Pair:  168
+Total nonInternal Read long: 1282
+Total Unique NonInternal Read Long Pair with counts:  168
+
+1ACATCG2ATTGGC.txt
+PEread internal: 7185
+PEread nonInternal: 22251
+PEread short insert <20bp: 31
+PEread long insert >=20bp: 22220
+Before filter q20: 22220
+After filter q20: 672
+Total nonInternal Read long: 672
+Total Unique NonInternal Read Long Pair:  149
+Total nonInternal Read long: 672
+Total Unique NonInternal Read Long Pair with counts:  149
+
+1GCCTAA2ATTGGC.txt
+PEread internal: 5376
+PEread nonInternal: 25866
+PEread short insert <20bp: 21
+PEread long insert >=20bp: 25845
+Before filter q20: 25845
+After filter q20: 1324
+Total nonInternal Read long: 1324
+Total Unique NonInternal Read Long Pair:  171
+Total nonInternal Read long: 1324
+Total Unique NonInternal Read Long Pair with counts:  171
+
+1TGGTCA2ATTGGC.txt
+PEread internal: 729
+PEread nonInternal: 26532
+PEread short insert <20bp: 1382
+PEread long insert >=20bp: 25150
+Before filter q20: 25150
+After filter q20: 2538
+Total nonInternal Read long: 2538
+Total Unique NonInternal Read Long Pair:  248
+Total nonInternal Read long: 2538
+Total Unique NonInternal Read Long Pair with counts:  248
+
+1CACTGT2ATTGGC.txt
+PEread internal: 6279
+PEread nonInternal: 31338
+PEread short insert <20bp: 20
+PEread long insert >=20bp: 31318
+Before filter q20: 31318
+After filter q20: 5112
+Total nonInternal Read long: 5112
+Total Unique NonInternal Read Long Pair:  462
+Total nonInternal Read long: 5112
+Total Unique NonInternal Read Long Pair with counts:  462
+
+1TGACCA2ATTGGC.txt
+PEread internal: 1149
+PEread nonInternal: 23605
+PEread short insert <20bp: 1882
+PEread long insert >=20bp: 21723
+Before filter q20: 21723
+After filter q20: 195
+Total nonInternal Read long: 195
+Total Unique NonInternal Read Long Pair:  106
+Total nonInternal Read long: 195
+Total Unique NonInternal Read Long Pair with counts:  106
+
+1CGTACG2ATTGGC.txt
+PEread internal: 13952
+PEread nonInternal: 99585
+PEread short insert <20bp: 11684
+PEread long insert >=20bp: 87901
+Before filter q20: 87901
+After filter q20: 9322
+Total nonInternal Read long: 9322
+Total Unique NonInternal Read Long Pair:  1915
+Total nonInternal Read long: 9322
+Total Unique NonInternal Read Long Pair with counts:  1915
+
+1CGTGAT2GATCTG.txt
+PEread internal: 12364
+PEread nonInternal: 102178
+PEread short insert <20bp: 13077
+PEread long insert >=20bp: 89101
+Before filter q20: 89101
+After filter q20: 8322
+Total nonInternal Read long: 8322
+Total Unique NonInternal Read Long Pair:  1449
+Total nonInternal Read long: 8322
+Total Unique NonInternal Read Long Pair with counts:  1449
+
+1ACATCG2GATCTG.txt
+PEread internal: 11129
+PEread nonInternal: 107414
+PEread short insert <20bp: 12632
+PEread long insert >=20bp: 94782
+Before filter q20: 94782
+After filter q20: 14057
+Total nonInternal Read long: 14057
+Total Unique NonInternal Read Long Pair:  2271
+Total nonInternal Read long: 14057
+Total Unique NonInternal Read Long Pair with counts:  2271
+
+1GCCTAA2GATCTG.txt
+PEread internal: 11940
+PEread nonInternal: 108349
+PEread short insert <20bp: 15340
+PEread long insert >=20bp: 93009
+Before filter q20: 93009
+After filter q20: 11092
+Total nonInternal Read long: 11092
+Total Unique NonInternal Read Long Pair:  3017
+Total nonInternal Read long: 11092
+Total Unique NonInternal Read Long Pair with counts:  3017
+
+1TGGTCA2GATCTG.txt
+PEread internal: 12481
+PEread nonInternal: 125451
+PEread short insert <20bp: 16493
+PEread long insert >=20bp: 108958
+Before filter q20: 108958
+After filter q20: 11440
+Total nonInternal Read long: 11440
+Total Unique NonInternal Read Long Pair:  3189
+Total nonInternal Read long: 11440
+Total Unique NonInternal Read Long Pair with counts:  3189
+
+1CACTGT2GATCTG.txt
+PEread internal: 12618
+PEread nonInternal: 126676
+PEread short insert <20bp: 15079
+PEread long insert >=20bp: 111597
+Before filter q20: 111597
+After filter q20: 11336
+Total nonInternal Read long: 11336
+Total Unique NonInternal Read Long Pair:  1943
+Total nonInternal Read long: 11336
+Total Unique NonInternal Read Long Pair with counts:  1943
+
+1TGACCA2GATCTG.txt
+PEread internal: 9551
+PEread nonInternal: 110326
+PEread short insert <20bp: 10173
+PEread long insert >=20bp: 100153
+Before filter q20: 100153
+After filter q20: 16275
+Total nonInternal Read long: 16275
+Total Unique NonInternal Read Long Pair:  2079
+Total nonInternal Read long: 16275
+Total Unique NonInternal Read Long Pair with counts:  2079
+
+1CGTACG2GATCTG.txt
+PEread internal: 11449
+PEread nonInternal: 109681
+PEread short insert <20bp: 13236
+PEread long insert >=20bp: 96445
+Before filter q20: 96445
+After filter q20: 8637
+Total nonInternal Read long: 8637
+Total Unique NonInternal Read Long Pair:  1510
+Total nonInternal Read long: 8637
+Total Unique NonInternal Read Long Pair with counts:  1510
+
+1CGTGAT2TCAAGT.txt
+PEread internal: 9564
+PEread nonInternal: 99295
+PEread short insert <20bp: 15400
+PEread long insert >=20bp: 83895
+Before filter q20: 83895
+After filter q20: 8540
+Total nonInternal Read long: 8540
+Total Unique NonInternal Read Long Pair:  1387
+Total nonInternal Read long: 8540
+Total Unique NonInternal Read Long Pair with counts:  1387
+
+1CGTGAT2TAGCTT.txt
+PEread internal: 25640
+PEread nonInternal: 186569
+PEread short insert <20bp: 24723
+PEread long insert >=20bp: 161846
+Before filter q20: 161846
+After filter q20: 29008
+Total nonInternal Read long: 29008
+Total Unique NonInternal Read Long Pair:  8671
+Total nonInternal Read long: 29008
+Total Unique NonInternal Read Long Pair with counts:  8671
+
+1ACATCG2TAGCTT.txt
+PEread internal: 14979
+PEread nonInternal: 121357
+PEread short insert <20bp: 19594
+PEread long insert >=20bp: 101763
+Before filter q20: 101763
+After filter q20: 9634
+Total nonInternal Read long: 9634
+Total Unique NonInternal Read Long Pair:  2383
+Total nonInternal Read long: 9634
+Total Unique NonInternal Read Long Pair with counts:  2383
+
+1CGTGAT2GATCTG.txt
+PEread internal: 50073
+PEread nonInternal: 314468
+PEread short insert <20bp: 47987
+PEread long insert >=20bp: 266481
+Before filter q20: 266481
+After filter q20: 55257
+Total nonInternal Read long: 55257
+Total Unique NonInternal Read Long Pair:  6490
+Total nonInternal Read long: 55257
+Total Unique NonInternal Read Long Pair with counts:  6490
+
+1ACATCG2GATCTG.txt
+PEread internal: 52128
+PEread nonInternal: 357802
+PEread short insert <20bp: 54546
+PEread long insert >=20bp: 303256
+Before filter q20: 303256
+After filter q20: 44968
+Total nonInternal Read long: 44968
+Total Unique NonInternal Read Long Pair:  8468
+Total nonInternal Read long: 44968
+Total Unique NonInternal Read Long Pair with counts:  8468
+
+1GCCTAA2GATCTG.txt
+PEread internal: 60703
+PEread nonInternal: 333306
+PEread short insert <20bp: 44915
+PEread long insert >=20bp: 288391
+Before filter q20: 288391
+After filter q20: 62876
+Total nonInternal Read long: 62876
+Total Unique NonInternal Read Long Pair:  8087
+Total nonInternal Read long: 62876
+Total Unique NonInternal Read Long Pair with counts:  8087
+
+1TGGTCA2GATCTG.txt
+PEread internal: 50609
+PEread nonInternal: 279916
+PEread short insert <20bp: 49325
+PEread long insert >=20bp: 230591
+Before filter q20: 230591
+After filter q20: 43746
+Total nonInternal Read long: 43746
+Total Unique NonInternal Read Long Pair:  6451
+Total nonInternal Read long: 43746
+Total Unique NonInternal Read Long Pair with counts:  6451
+
+1CACTGT2GATCTG.txt
+PEread internal: 55043
+PEread nonInternal: 357910
+PEread short insert <20bp: 56734
+PEread long insert >=20bp: 301176
+Before filter q20: 301176
+After filter q20: 47265
+Total nonInternal Read long: 47265
+Total Unique NonInternal Read Long Pair:  7314
+Total nonInternal Read long: 47265
+Total Unique NonInternal Read Long Pair with counts:  7314
+
+1TGACCA2GATCTG.txt
+PEread internal: 49779
+PEread nonInternal: 290100
+PEread short insert <20bp: 41234
+PEread long insert >=20bp: 248866
+Before filter q20: 248866
+After filter q20: 43830
+Total nonInternal Read long: 43830
+Total Unique NonInternal Read Long Pair:  6659
+Total nonInternal Read long: 43830
+Total Unique NonInternal Read Long Pair with counts:  6659
+
+1CGTACG2GATCTG.txt
+PEread internal: 49205
+PEread nonInternal: 263997
+PEread short insert <20bp: 35064
+PEread long insert >=20bp: 228933
+Before filter q20: 228933
+After filter q20: 36572
+Total nonInternal Read long: 36572
+Total Unique NonInternal Read Long Pair:  4048
+Total nonInternal Read long: 36572
+Total Unique NonInternal Read Long Pair with counts:  4048
+
+1CGTGAT2GATCTG.txt
+PEread internal: 10465
+PEread nonInternal: 43835
+PEread short insert <20bp: 5320
+PEread long insert >=20bp: 38515
+Before filter q20: 38515
+After filter q20: 8234
+Total nonInternal Read long: 8234
+Total Unique NonInternal Read Long Pair:  2009
+Total nonInternal Read long: 8234
+Total Unique NonInternal Read Long Pair with counts:  2009
+
+1ACATCG2GATCTG.txt
+PEread internal: 10747
+PEread nonInternal: 72350
+PEread short insert <20bp: 14676
+PEread long insert >=20bp: 57674
+Before filter q20: 57674
+After filter q20: 11651
+Total nonInternal Read long: 11651
+Total Unique NonInternal Read Long Pair:  1428
+Total nonInternal Read long: 11651
+Total Unique NonInternal Read Long Pair with counts:  1428
+
+1GCCTAA2GATCTG.txt
+PEread internal: 11219
+PEread nonInternal: 55289
+PEread short insert <20bp: 6943
+PEread long insert >=20bp: 48346
+Before filter q20: 48346
+After filter q20: 12694
+Total nonInternal Read long: 12694
+Total Unique NonInternal Read Long Pair:  1035
+Total nonInternal Read long: 12694
+Total Unique NonInternal Read Long Pair with counts:  1035
+
+1TGGTCA2GATCTG.txt
+PEread internal: 10945
+PEread nonInternal: 51489
+PEread short insert <20bp: 9634
+PEread long insert >=20bp: 41855
+Before filter q20: 41855
+After filter q20: 9130
+Total nonInternal Read long: 9130
+Total Unique NonInternal Read Long Pair:  1982
+Total nonInternal Read long: 9130
+Total Unique NonInternal Read Long Pair with counts:  1982
+
+1CACTGT2GATCTG.txt
+PEread internal: 11802
+PEread nonInternal: 54911
+PEread short insert <20bp: 7876
+PEread long insert >=20bp: 47035
+Before filter q20: 47035
+After filter q20: 11825
+Total nonInternal Read long: 11825
+Total Unique NonInternal Read Long Pair:  1633
+Total nonInternal Read long: 11825
+Total Unique NonInternal Read Long Pair with counts:  1633
+
+1TGACCA2GATCTG.txt
+PEread internal: 9115
+PEread nonInternal: 43868
+PEread short insert <20bp: 5024
+PEread long insert >=20bp: 38844
+Before filter q20: 38844
+After filter q20: 6227
+Total nonInternal Read long: 6227
+Total Unique NonInternal Read Long Pair:  2427
+Total nonInternal Read long: 6227
+Total Unique NonInternal Read Long Pair with counts:  2427
+
+1CGTACG2GATCTG.txt
+PEread internal: 8603
+PEread nonInternal: 45609
+PEread short insert <20bp: 5195
+PEread long insert >=20bp: 40414
+Before filter q20: 40414
+After filter q20: 6645
+Total nonInternal Read long: 6645
+Total Unique NonInternal Read Long Pair:  1972
+Total nonInternal Read long: 6645
+Total Unique NonInternal Read Long Pair with counts:  1972
+
+1CGTGAT2TAGCTT.txt
+PEread internal: 9615
+PEread nonInternal: 56242
+PEread short insert <20bp: 9485
+PEread long insert >=20bp: 46757
+Before filter q20: 46757
+After filter q20: 6824
+Total nonInternal Read long: 6824
+Total Unique NonInternal Read Long Pair:  1242
+Total nonInternal Read long: 6824
+Total Unique NonInternal Read Long Pair with counts:  1242
+
+1ACATCG2TAGCTT.txt
+PEread internal: 12307
+PEread nonInternal: 75191
+PEread short insert <20bp: 13577
+PEread long insert >=20bp: 61614
+Before filter q20: 61614
+After filter q20: 10406
+Total nonInternal Read long: 10406
+Total Unique NonInternal Read Long Pair:  1331
+Total nonInternal Read long: 10406
+Total Unique NonInternal Read Long Pair with counts:  1331
+
+1GCCTAA2TAGCTT.txt
+PEread internal: 10326
+PEread nonInternal: 78423
+PEread short insert <20bp: 13256
+PEread long insert >=20bp: 65167
+Before filter q20: 65167
+After filter q20: 9955
+Total nonInternal Read long: 9955
+Total Unique NonInternal Read Long Pair:  1764
+Total nonInternal Read long: 9955
+Total Unique NonInternal Read Long Pair with counts:  1764
+
+1TGGTCA2TAGCTT.txt
+PEread internal: 22033
+PEread nonInternal: 50695
+PEread short insert <20bp: 8605
+PEread long insert >=20bp: 42090
+Before filter q20: 42090
+After filter q20: 680
+Total nonInternal Read long: 680
+Total Unique NonInternal Read Long Pair:  496
+Total nonInternal Read long: 680
+Total Unique NonInternal Read Long Pair with counts:  496
+
+1CACTGT2TAGCTT.txt
+PEread internal: 8723
+PEread nonInternal: 64568
+PEread short insert <20bp: 10884
+PEread long insert >=20bp: 53684
+Before filter q20: 53684
+After filter q20: 12156
+Total nonInternal Read long: 12156
+Total Unique NonInternal Read Long Pair:  1766
+Total nonInternal Read long: 12156
+Total Unique NonInternal Read Long Pair with counts:  1766
+
+1TGACCA2TAGCTT.txt
+PEread internal: 16565
+PEread nonInternal: 36139
+PEread short insert <20bp: 3404
+PEread long insert >=20bp: 32735
+Before filter q20: 32735
+After filter q20: 356
+Total nonInternal Read long: 356
+Total Unique NonInternal Read Long Pair:  294
+Total nonInternal Read long: 356
+Total Unique NonInternal Read Long Pair with counts:  294
+
+1CGTACG2TAGCTT.txt
+PEread internal: 9219
+PEread nonInternal: 48189
+PEread short insert <20bp: 5612
+PEread long insert >=20bp: 42577
+Before filter q20: 42577
+After filter q20: 6741
+Total nonInternal Read long: 6741
+Total Unique NonInternal Read Long Pair:  1838
+Total nonInternal Read long: 6741
+Total Unique NonInternal Read Long Pair with counts:  1838
+
+1CGTGAT2CTTGTA.txt
+PEread internal: 9588
+PEread nonInternal: 52491
+PEread short insert <20bp: 7630
+PEread long insert >=20bp: 44861
+Before filter q20: 44861
+After filter q20: 6186
+Total nonInternal Read long: 6186
+Total Unique NonInternal Read Long Pair:  1335
+Total nonInternal Read long: 6186
+Total Unique NonInternal Read Long Pair with counts:  1335
+
+1ACATCG2CTTGTA.txt
+PEread internal: 28490
+PEread nonInternal: 54480
+PEread short insert <20bp: 8040
+PEread long insert >=20bp: 46440
+Before filter q20: 46440
+After filter q20: 733
+Total nonInternal Read long: 733
+Total Unique NonInternal Read Long Pair:  576
+Total nonInternal Read long: 733
+Total Unique NonInternal Read Long Pair with counts:  576
+
+1GCCTAA2CTTGTA.txt
+PEread internal: 12617
+PEread nonInternal: 69577
+PEread short insert <20bp: 10391
+PEread long insert >=20bp: 59186
+Before filter q20: 59186
+After filter q20: 12937
+Total nonInternal Read long: 12937
+Total Unique NonInternal Read Long Pair:  1492
+Total nonInternal Read long: 12937
+Total Unique NonInternal Read Long Pair with counts:  1492
+
+1TGGTCA2CTTGTA.txt
+PEread internal: 12794
+PEread nonInternal: 57563
+PEread short insert <20bp: 9785
+PEread long insert >=20bp: 47778
+Before filter q20: 47778
+After filter q20: 8781
+Total nonInternal Read long: 8781
+Total Unique NonInternal Read Long Pair:  1329
+Total nonInternal Read long: 8781
+Total Unique NonInternal Read Long Pair with counts:  1329
+
+1CACTGT2CTTGTA.txt
+PEread internal: 11283
+PEread nonInternal: 63403
+PEread short insert <20bp: 11446
+PEread long insert >=20bp: 51957
+Before filter q20: 51957
+After filter q20: 9838
+Total nonInternal Read long: 9838
+Total Unique NonInternal Read Long Pair:  1764
+Total nonInternal Read long: 9838
+Total Unique NonInternal Read Long Pair with counts:  1764
+
+1TGACCA2CTTGTA.txt
+PEread internal: 18502
+PEread nonInternal: 39337
+PEread short insert <20bp: 4126
+PEread long insert >=20bp: 35211
+Before filter q20: 35211
+After filter q20: 385
+Total nonInternal Read long: 385
+Total Unique NonInternal Read Long Pair:  331
+Total nonInternal Read long: 385
+Total Unique NonInternal Read Long Pair with counts:  331
+
+1CGTACG2CTTGTA.txt
+PEread internal: 9103
+PEread nonInternal: 49734
+PEread short insert <20bp: 5475
+PEread long insert >=20bp: 44259
+Before filter q20: 44259
+After filter q20: 7328
+Total nonInternal Read long: 7328
+Total Unique NonInternal Read Long Pair:  1443
+Total nonInternal Read long: 7328
+Total Unique NonInternal Read Long Pair with counts:  1443
+
+1CGTGAT2ATTGGC.txt
+PEread internal: 13302
+PEread nonInternal: 50006
+PEread short insert <20bp: 7160
+PEread long insert >=20bp: 42846
+Before filter q20: 42846
+After filter q20: 8446
+Total nonInternal Read long: 8446
+Total Unique NonInternal Read Long Pair:  1157
+Total nonInternal Read long: 8446
+Total Unique NonInternal Read Long Pair with counts:  1157
+
+1ACATCG2ATTGGC.txt
+PEread internal: 47699
+PEread nonInternal: 84586
+PEread short insert <20bp: 7741
+PEread long insert >=20bp: 76845
+Before filter q20: 76845
+After filter q20: 988
+Total nonInternal Read long: 988
+Total Unique NonInternal Read Long Pair:  822
+Total nonInternal Read long: 988
+Total Unique NonInternal Read Long Pair with counts:  822
+
+1GCCTAA2ATTGGC.txt
+PEread internal: 15118
+PEread nonInternal: 65567
+PEread short insert <20bp: 8833
+PEread long insert >=20bp: 56734
+Before filter q20: 56734
+After filter q20: 9874
+Total nonInternal Read long: 9874
+Total Unique NonInternal Read Long Pair:  2011
+Total nonInternal Read long: 9874
+Total Unique NonInternal Read Long Pair with counts:  2011
+
+1TGGTCA2ATTGGC.txt
+PEread internal: 12520
+PEread nonInternal: 63769
+PEread short insert <20bp: 11645
+PEread long insert >=20bp: 52124
+Before filter q20: 52124
+After filter q20: 10347
+Total nonInternal Read long: 10347
+Total Unique NonInternal Read Long Pair:  3657
+Total nonInternal Read long: 10347
+Total Unique NonInternal Read Long Pair with counts:  3657
+
+1CACTGT2ATTGGC.txt
+PEread internal: 12386
+PEread nonInternal: 65857
+PEread short insert <20bp: 10845
+PEread long insert >=20bp: 55012
+Before filter q20: 55012
+After filter q20: 10851
+Total nonInternal Read long: 10851
+Total Unique NonInternal Read Long Pair:  3066
+Total nonInternal Read long: 10851
+Total Unique NonInternal Read Long Pair with counts:  3066
+
+1TGACCA2ATTGGC.txt
+PEread internal: 10946
+PEread nonInternal: 39911
+PEread short insert <20bp: 5510
+PEread long insert >=20bp: 34401
+Before filter q20: 34401
+After filter q20: 6939
+Total nonInternal Read long: 6939
+Total Unique NonInternal Read Long Pair:  2921
+Total nonInternal Read long: 6939
+Total Unique NonInternal Read Long Pair with counts:  2921
+
+1CGTACG2ATTGGC.txt
+PEread internal: 10214
+PEread nonInternal: 52313
+PEread short insert <20bp: 6267
+PEread long insert >=20bp: 46046
+Before filter q20: 46046
+After filter q20: 6951
+Total nonInternal Read long: 6951
+Total Unique NonInternal Read Long Pair:  3319
+Total nonInternal Read long: 6951
+Total Unique NonInternal Read Long Pair with counts:  3319
+
+1CGTGAT2GATCTG.txt
+PEread internal: 10465
+PEread nonInternal: 43835
+PEread short insert <20bp: 5320
+PEread long insert >=20bp: 38515
+Before filter q20: 38515
+After filter q20: 8234
+Total nonInternal Read long: 8234
+Total Unique NonInternal Read Long Pair:  2009
+Total nonInternal Read long: 8234
+Total Unique NonInternal Read Long Pair with counts:  2009
+
+1ACATCG2GATCTG.txt
+PEread internal: 10747
+PEread nonInternal: 72350
+PEread short insert <20bp: 14676
+PEread long insert >=20bp: 57674
+Before filter q20: 57674
+After filter q20: 11651
+Total nonInternal Read long: 11651
+Total Unique NonInternal Read Long Pair:  1428
+Total nonInternal Read long: 11651
+Total Unique NonInternal Read Long Pair with counts:  1428
+
+1GCCTAA2GATCTG.txt
+PEread internal: 11219
+PEread nonInternal: 55289
+PEread short insert <20bp: 6943
+PEread long insert >=20bp: 48346
+Before filter q20: 48346
+After filter q20: 12694
+Total nonInternal Read long: 12694
+Total Unique NonInternal Read Long Pair:  1035
+Total nonInternal Read long: 12694
+Total Unique NonInternal Read Long Pair with counts:  1035
+
+1TGGTCA2GATCTG.txt
+PEread internal: 10945
+PEread nonInternal: 51489
+PEread short insert <20bp: 9634
+PEread long insert >=20bp: 41855
+Before filter q20: 41855
+After filter q20: 9130
+Total nonInternal Read long: 9130
+Total Unique NonInternal Read Long Pair:  1982
+Total nonInternal Read long: 9130
+Total Unique NonInternal Read Long Pair with counts:  1982
+
+1CACTGT2GATCTG.txt
+PEread internal: 11802
+PEread nonInternal: 54911
+PEread short insert <20bp: 7876
+PEread long insert >=20bp: 47035
+Before filter q20: 47035
+After filter q20: 11825
+Total nonInternal Read long: 11825
+Total Unique NonInternal Read Long Pair:  1633
+Total nonInternal Read long: 11825
+Total Unique NonInternal Read Long Pair with counts:  1633
+
+1TGACCA2GATCTG.txt
+PEread internal: 9115
+PEread nonInternal: 43868
+PEread short insert <20bp: 5024
+PEread long insert >=20bp: 38844
+Before filter q20: 38844
+After filter q20: 6227
+Total nonInternal Read long: 6227
+Total Unique NonInternal Read Long Pair:  2427
+Total nonInternal Read long: 6227
+Total Unique NonInternal Read Long Pair with counts:  2427
+
+1CGTACG2GATCTG.txt
+PEread internal: 8603
+PEread nonInternal: 45609
+PEread short insert <20bp: 5195
+PEread long insert >=20bp: 40414
+Before filter q20: 40414
+After filter q20: 6645
+Total nonInternal Read long: 6645
+Total Unique NonInternal Read Long Pair:  1972
+Total nonInternal Read long: 6645
+Total Unique NonInternal Read Long Pair with counts:  1972
+
+1CGTGAT2TCAAGT.txt
+PEread internal: 7410
+PEread nonInternal: 39304
+PEread short insert <20bp: 6245
+PEread long insert >=20bp: 33059
+Before filter q20: 33059
+After filter q20: 5370
+Total nonInternal Read long: 5370
+Total Unique NonInternal Read Long Pair:  2436
+Total nonInternal Read long: 5370
+Total Unique NonInternal Read Long Pair with counts:  2436
+
+1ACATCG2TCAAGT.txt
+PEread internal: 10222
+PEread nonInternal: 50259
+PEread short insert <20bp: 7933
+PEread long insert >=20bp: 42326
+Before filter q20: 42326
+After filter q20: 8992
+Total nonInternal Read long: 8992
+Total Unique NonInternal Read Long Pair:  1994
+Total nonInternal Read long: 8992
+Total Unique NonInternal Read Long Pair with counts:  1994
+
+1GCCTAA2TCAAGT.txt
+PEread internal: 9243
+PEread nonInternal: 50173
+PEread short insert <20bp: 6568
+PEread long insert >=20bp: 43605
+Before filter q20: 43605
+After filter q20: 6899
+Total nonInternal Read long: 6899
+Total Unique NonInternal Read Long Pair:  1748
+Total nonInternal Read long: 6899
+Total Unique NonInternal Read Long Pair with counts:  1748
+
+1TGGTCA2TCAAGT.txt
+PEread internal: 10401
+PEread nonInternal: 41450
+PEread short insert <20bp: 8201
+PEread long insert >=20bp: 33249
+Before filter q20: 33249
+After filter q20: 6286
+Total nonInternal Read long: 6286
+Total Unique NonInternal Read Long Pair:  1917
+Total nonInternal Read long: 6286
+Total Unique NonInternal Read Long Pair with counts:  1917
+
+1CACTGT2TCAAGT.txt
+PEread internal: 8804
+PEread nonInternal: 50840
+PEread short insert <20bp: 8898
+PEread long insert >=20bp: 41942
+Before filter q20: 41942
+After filter q20: 6700
+Total nonInternal Read long: 6700
+Total Unique NonInternal Read Long Pair:  2415
+Total nonInternal Read long: 6700
+Total Unique NonInternal Read Long Pair with counts:  2415
+
+1TGACCA2TCAAGT.txt
+PEread internal: 5674
+PEread nonInternal: 39751
+PEread short insert <20bp: 5208
+PEread long insert >=20bp: 34543
+Before filter q20: 34543
+After filter q20: 5235
+Total nonInternal Read long: 5235
+Total Unique NonInternal Read Long Pair:  1400
+Total nonInternal Read long: 5235
+Total Unique NonInternal Read Long Pair with counts:  1400
+
+1CGTACG2TCAAGT.txt
+PEread internal: 6643
+PEread nonInternal: 40847
+PEread short insert <20bp: 5520
+PEread long insert >=20bp: 35327
+Before filter q20: 35327
+After filter q20: 5266
+Total nonInternal Read long: 5266
+Total Unique NonInternal Read Long Pair:  1254
+Total nonInternal Read long: 5266
+Total Unique NonInternal Read Long Pair with counts:  1254
+
+1CGTGAT2TAGCTT.txt
+PEread internal: 10365
+PEread nonInternal: 60589
+PEread short insert <20bp: 10192
+PEread long insert >=20bp: 50397
+Before filter q20: 50397
+After filter q20: 7348
+Total nonInternal Read long: 7348
+Total Unique NonInternal Read Long Pair:  1314
+Total nonInternal Read long: 7348
+Total Unique NonInternal Read Long Pair with counts:  1314
+
+1ACATCG2TAGCTT.txt
+PEread internal: 13166
+PEread nonInternal: 80625
+PEread short insert <20bp: 14535
+PEread long insert >=20bp: 66090
+Before filter q20: 66090
+After filter q20: 11196
+Total nonInternal Read long: 11196
+Total Unique NonInternal Read Long Pair:  1406
+Total nonInternal Read long: 11196
+Total Unique NonInternal Read Long Pair with counts:  1406
+
+1GCCTAA2TAGCTT.txt
+PEread internal: 11059
+PEread nonInternal: 84101
+PEread short insert <20bp: 14225
+PEread long insert >=20bp: 69876
+Before filter q20: 69876
+After filter q20: 10661
+Total nonInternal Read long: 10661
+Total Unique NonInternal Read Long Pair:  1861
+Total nonInternal Read long: 10661
+Total Unique NonInternal Read Long Pair with counts:  1861
+
+1TGGTCA2TAGCTT.txt
+PEread internal: 23321
+PEread nonInternal: 53585
+PEread short insert <20bp: 9076
+PEread long insert >=20bp: 44509
+Before filter q20: 44509
+After filter q20: 723
+Total nonInternal Read long: 723
+Total Unique NonInternal Read Long Pair:  530
+Total nonInternal Read long: 723
+Total Unique NonInternal Read Long Pair with counts:  530
+
+1CACTGT2TAGCTT.txt
+PEread internal: 9389
+PEread nonInternal: 69464
+PEread short insert <20bp: 11727
+PEread long insert >=20bp: 57737
+Before filter q20: 57737
+After filter q20: 13026
+Total nonInternal Read long: 13026
+Total Unique NonInternal Read Long Pair:  1867
+Total nonInternal Read long: 13026
+Total Unique NonInternal Read Long Pair with counts:  1867
+
+1TGACCA2TAGCTT.txt
+PEread internal: 17832
+PEread nonInternal: 38797
+PEread short insert <20bp: 3649
+PEread long insert >=20bp: 35148
+Before filter q20: 35148
+After filter q20: 378
+Total nonInternal Read long: 378
+Total Unique NonInternal Read Long Pair:  312
+Total nonInternal Read long: 378
+Total Unique NonInternal Read Long Pair with counts:  312
+
+1CGTACG2TAGCTT.txt
+PEread internal: 9937
+PEread nonInternal: 52013
+PEread short insert <20bp: 6084
+PEread long insert >=20bp: 45929
+Before filter q20: 45929
+After filter q20: 7288
+Total nonInternal Read long: 7288
+Total Unique NonInternal Read Long Pair:  1920
+Total nonInternal Read long: 7288
+Total Unique NonInternal Read Long Pair with counts:  1920
+
+1CGTGAT2CTTGTA.txt
+PEread internal: 10315
+PEread nonInternal: 56409
+PEread short insert <20bp: 8216
+PEread long insert >=20bp: 48193
+Before filter q20: 48193
+After filter q20: 6624
+Total nonInternal Read long: 6624
+Total Unique NonInternal Read Long Pair:  1413
+Total nonInternal Read long: 6624
+Total Unique NonInternal Read Long Pair with counts:  1413
+
+1ACATCG2CTTGTA.txt
+PEread internal: 30481
+PEread nonInternal: 58248
+PEread short insert <20bp: 8597
+PEread long insert >=20bp: 49651
+Before filter q20: 49651
+After filter q20: 775
+Total nonInternal Read long: 775
+Total Unique NonInternal Read Long Pair:  607
+Total nonInternal Read long: 775
+Total Unique NonInternal Read Long Pair with counts:  607
+
+1GCCTAA2CTTGTA.txt
+PEread internal: 13478
+PEread nonInternal: 74567
+PEread short insert <20bp: 11168
+PEread long insert >=20bp: 63399
+Before filter q20: 63399
+After filter q20: 13872
+Total nonInternal Read long: 13872
+Total Unique NonInternal Read Long Pair:  1600
+Total nonInternal Read long: 13872
+Total Unique NonInternal Read Long Pair with counts:  1600
+
+1TGGTCA2CTTGTA.txt
+PEread internal: 13547
+PEread nonInternal: 61166
+PEread short insert <20bp: 10389
+PEread long insert >=20bp: 50777
+Before filter q20: 50777
+After filter q20: 9355
+Total nonInternal Read long: 9355
+Total Unique NonInternal Read Long Pair:  1395
+Total nonInternal Read long: 9355
+Total Unique NonInternal Read Long Pair with counts:  1395
+
+1CACTGT2CTTGTA.txt
+PEread internal: 12087
+PEread nonInternal: 68171
+PEread short insert <20bp: 12310
+PEread long insert >=20bp: 55861
+Before filter q20: 55861
+After filter q20: 10594
+Total nonInternal Read long: 10594
+Total Unique NonInternal Read Long Pair:  1862
+Total nonInternal Read long: 10594
+Total Unique NonInternal Read Long Pair with counts:  1862
+
+1TGACCA2CTTGTA.txt
+PEread internal: 19916
+PEread nonInternal: 42133
+PEread short insert <20bp: 4416
+PEread long insert >=20bp: 37717
+Before filter q20: 37717
+After filter q20: 417
+Total nonInternal Read long: 417
+Total Unique NonInternal Read Long Pair:  355
+Total nonInternal Read long: 417
+Total Unique NonInternal Read Long Pair with counts:  355
+
+1CGTACG2CTTGTA.txt
+PEread internal: 9790
+PEread nonInternal: 53555
+PEread short insert <20bp: 5885
+PEread long insert >=20bp: 47670
+Before filter q20: 47670
+After filter q20: 7939
+Total nonInternal Read long: 7939
+Total Unique NonInternal Read Long Pair:  1523
+Total nonInternal Read long: 7939
+Total Unique NonInternal Read Long Pair with counts:  1523
+
+1CGTGAT2ATTGGC.txt
+PEread internal: 14307
+PEread nonInternal: 53890
+PEread short insert <20bp: 7694
+PEread long insert >=20bp: 46196
+Before filter q20: 46196
+After filter q20: 9157
+Total nonInternal Read long: 9157
+Total Unique NonInternal Read Long Pair:  1265
+Total nonInternal Read long: 9157
+Total Unique NonInternal Read Long Pair with counts:  1265
+
+1ACATCG2ATTGGC.txt
+PEread internal: 51135
+PEread nonInternal: 90467
+PEread short insert <20bp: 8296
+PEread long insert >=20bp: 82171
+Before filter q20: 82171
+After filter q20: 1065
+Total nonInternal Read long: 1065
+Total Unique NonInternal Read Long Pair:  879
+Total nonInternal Read long: 1065
+Total Unique NonInternal Read Long Pair with counts:  879
+
+1GCCTAA2ATTGGC.txt
+PEread internal: 16126
+PEread nonInternal: 70214
+PEread short insert <20bp: 9427
+PEread long insert >=20bp: 60787
+Before filter q20: 60787
+After filter q20: 10615
+Total nonInternal Read long: 10615
+Total Unique NonInternal Read Long Pair:  2169
+Total nonInternal Read long: 10615
+Total Unique NonInternal Read Long Pair with counts:  2169
+
+1TGGTCA2ATTGGC.txt
+PEread internal: 13266
+PEread nonInternal: 67578
+PEread short insert <20bp: 12308
+PEread long insert >=20bp: 55270
+Before filter q20: 55270
+After filter q20: 10974
+Total nonInternal Read long: 10974
+Total Unique NonInternal Read Long Pair:  3829
+Total nonInternal Read long: 10974
+Total Unique NonInternal Read Long Pair with counts:  3829
+
+1CACTGT2ATTGGC.txt
+PEread internal: 13343
+PEread nonInternal: 71027
+PEread short insert <20bp: 11699
+PEread long insert >=20bp: 59328
+Before filter q20: 59328
+After filter q20: 11679
+Total nonInternal Read long: 11679
+Total Unique NonInternal Read Long Pair:  3308
+Total nonInternal Read long: 11679
+Total Unique NonInternal Read Long Pair with counts:  3308
+
+1TGACCA2ATTGGC.txt
+PEread internal: 11745
+PEread nonInternal: 42931
+PEread short insert <20bp: 5916
+PEread long insert >=20bp: 37015
+Before filter q20: 37015
+After filter q20: 7441
+Total nonInternal Read long: 7441
+Total Unique NonInternal Read Long Pair:  3115
+Total nonInternal Read long: 7441
+Total Unique NonInternal Read Long Pair with counts:  3115
+
+1CGTACG2ATTGGC.txt
+PEread internal: 11018
+PEread nonInternal: 56323
+PEread short insert <20bp: 6737
+PEread long insert >=20bp: 49586
+Before filter q20: 49586
+After filter q20: 7493
+Total nonInternal Read long: 7493
+Total Unique NonInternal Read Long Pair:  3520
+Total nonInternal Read long: 7493
+Total Unique NonInternal Read Long Pair with counts:  3520
+
+1CGTGAT2GATCTG.txt
+PEread internal: 11272
+PEread nonInternal: 47281
+PEread short insert <20bp: 5724
+PEread long insert >=20bp: 41557
+Before filter q20: 41557
+After filter q20: 8914
+Total nonInternal Read long: 8914
+Total Unique NonInternal Read Long Pair:  2139
+Total nonInternal Read long: 8914
+Total Unique NonInternal Read Long Pair with counts:  2139
+
+1ACATCG2GATCTG.txt
+PEread internal: 11489
+PEread nonInternal: 77585
+PEread short insert <20bp: 15696
+PEread long insert >=20bp: 61889
+Before filter q20: 61889
+After filter q20: 12528
+Total nonInternal Read long: 12528
+Total Unique NonInternal Read Long Pair:  1514
+Total nonInternal Read long: 12528
+Total Unique NonInternal Read Long Pair with counts:  1514
+
+1GCCTAA2GATCTG.txt
+PEread internal: 12056
+PEread nonInternal: 59331
+PEread short insert <20bp: 7481
+PEread long insert >=20bp: 51850
+Before filter q20: 51850
+After filter q20: 13545
+Total nonInternal Read long: 13545
+Total Unique NonInternal Read Long Pair:  1103
+Total nonInternal Read long: 13545
+Total Unique NonInternal Read Long Pair with counts:  1103
+
+1TGGTCA2GATCTG.txt
+PEread internal: 11664
+PEread nonInternal: 54743
+PEread short insert <20bp: 10243
+PEread long insert >=20bp: 44500
+Before filter q20: 44500
+After filter q20: 9689
+Total nonInternal Read long: 9689
+Total Unique NonInternal Read Long Pair:  2063
+Total nonInternal Read long: 9689
+Total Unique NonInternal Read Long Pair with counts:  2063
+
+1CACTGT2GATCTG.txt
+PEread internal: 12674
+PEread nonInternal: 59013
+PEread short insert <20bp: 8458
+PEread long insert >=20bp: 50555
+Before filter q20: 50555
+After filter q20: 12715
+Total nonInternal Read long: 12715
+Total Unique NonInternal Read Long Pair:  1761
+Total nonInternal Read long: 12715
+Total Unique NonInternal Read Long Pair with counts:  1761
+
+1TGACCA2GATCTG.txt
+PEread internal: 9831
+PEread nonInternal: 47238
+PEread short insert <20bp: 5404
+PEread long insert >=20bp: 41834
+Before filter q20: 41834
+After filter q20: 6739
+Total nonInternal Read long: 6739
+Total Unique NonInternal Read Long Pair:  2570
+Total nonInternal Read long: 6739
+Total Unique NonInternal Read Long Pair with counts:  2570
+
+1CGTACG2GATCTG.txt
+PEread internal: 9289
+PEread nonInternal: 49103
+PEread short insert <20bp: 5564
+PEread long insert >=20bp: 43539
+Before filter q20: 43539
+After filter q20: 7171
+Total nonInternal Read long: 7171
+Total Unique NonInternal Read Long Pair:  2072
+Total nonInternal Read long: 7171
+Total Unique NonInternal Read Long Pair with counts:  2072
+
+1CGTGAT2TCAAGT.txt
+PEread internal: 7934
+PEread nonInternal: 42347
+PEread short insert <20bp: 6710
+PEread long insert >=20bp: 35637
+Before filter q20: 35637
+After filter q20: 5808
+Total nonInternal Read long: 5808
+Total Unique NonInternal Read Long Pair:  2556
+Total nonInternal Read long: 5808
+Total Unique NonInternal Read Long Pair with counts:  2556
+
+1ACATCG2TCAAGT.txt
+PEread internal: 10957
+PEread nonInternal: 53976
+PEread short insert <20bp: 8491
+PEread long insert >=20bp: 45485
+Before filter q20: 45485
+After filter q20: 9647
+Total nonInternal Read long: 9647
+Total Unique NonInternal Read Long Pair:  2092
+Total nonInternal Read long: 9647
+Total Unique NonInternal Read Long Pair with counts:  2092
+
+1GCCTAA2TCAAGT.txt
+PEread internal: 9900
+PEread nonInternal: 53862
+PEread short insert <20bp: 7041
+PEread long insert >=20bp: 46821
+Before filter q20: 46821
+After filter q20: 7417
+Total nonInternal Read long: 7417
+Total Unique NonInternal Read Long Pair:  1845
+Total nonInternal Read long: 7417
+Total Unique NonInternal Read Long Pair with counts:  1845
+
+1TGGTCA2TCAAGT.txt
+PEread internal: 11009
+PEread nonInternal: 43971
+PEread short insert <20bp: 8659
+PEread long insert >=20bp: 35312
+Before filter q20: 35312
+After filter q20: 6675
+Total nonInternal Read long: 6675
+Total Unique NonInternal Read Long Pair:  1998
+Total nonInternal Read long: 6675
+Total Unique NonInternal Read Long Pair with counts:  1998
+
+1CACTGT2TCAAGT.txt
+PEread internal: 9406
+PEread nonInternal: 54738
+PEread short insert <20bp: 9609
+PEread long insert >=20bp: 45129
+Before filter q20: 45129
+After filter q20: 7212
+Total nonInternal Read long: 7212
+Total Unique NonInternal Read Long Pair:  2537
+Total nonInternal Read long: 7212
+Total Unique NonInternal Read Long Pair with counts:  2537
+
+1TGACCA2TCAAGT.txt
+PEread internal: 6093
+PEread nonInternal: 42697
+PEread short insert <20bp: 5615
+PEread long insert >=20bp: 37082
+Before filter q20: 37082
+After filter q20: 5633
+Total nonInternal Read long: 5633
+Total Unique NonInternal Read Long Pair:  1469
+Total nonInternal Read long: 5633
+Total Unique NonInternal Read Long Pair with counts:  1469
+
+1CGTACG2TCAAGT.txt
+PEread internal: 7182
+PEread nonInternal: 44046
+PEread short insert <20bp: 5958
+PEread long insert >=20bp: 38088
+Before filter q20: 38088
+After filter q20: 5678
+Total nonInternal Read long: 5678
+Total Unique NonInternal Read Long Pair:  1311
+Total nonInternal Read long: 5678
+Total Unique NonInternal Read Long Pair with counts:  1311
+
+1CGTGAT2AAGCTA.txt
+PEread internal: 17019
+PEread nonInternal: 85505
+PEread short insert <20bp: 24063
+PEread long insert >=20bp: 61442
+Before filter q20: 61442
+After filter q20: 14426
+Total nonInternal Read long: 14426
+Total Unique NonInternal Read Long Pair:  1735
+Total nonInternal Read long: 14426
+Total Unique NonInternal Read Long Pair with counts:  1735
+
+1ACATCG2AAGCTA.txt
+PEread internal: 16073
+PEread nonInternal: 66645
+PEread short insert <20bp: 23006
+PEread long insert >=20bp: 43639
+Before filter q20: 43639
+After filter q20: 15966
+Total nonInternal Read long: 15966
+Total Unique NonInternal Read Long Pair:  1543
+Total nonInternal Read long: 15966
+Total Unique NonInternal Read Long Pair with counts:  1543
+
+1GCCTAA2AAGCTA.txt
+PEread internal: 29855
+PEread nonInternal: 64079
+PEread short insert <20bp: 21840
+PEread long insert >=20bp: 42239
+Before filter q20: 42239
+After filter q20: 9248
+Total nonInternal Read long: 9248
+Total Unique NonInternal Read Long Pair:  1325
+Total nonInternal Read long: 9248
+Total Unique NonInternal Read Long Pair with counts:  1325
+
+1TGGTCA2AAGCTA.txt
+PEread internal: 20910
+PEread nonInternal: 80033
+PEread short insert <20bp: 22972
+PEread long insert >=20bp: 57061
+Before filter q20: 57061
+After filter q20: 15545
+Total nonInternal Read long: 15545
+Total Unique NonInternal Read Long Pair:  2240
+Total nonInternal Read long: 15545
+Total Unique NonInternal Read Long Pair with counts:  2240
+
+1CACTGT2AAGCTA.txt
+PEread internal: 26508
+PEread nonInternal: 82576
+PEread short insert <20bp: 25472
+PEread long insert >=20bp: 57104
+Before filter q20: 57104
+After filter q20: 13167
+Total nonInternal Read long: 13167
+Total Unique NonInternal Read Long Pair:  1952
+Total nonInternal Read long: 13167
+Total Unique NonInternal Read Long Pair with counts:  1952
+
+1CGTGAT2TAGCTT.txt
+PEread internal: 6153
+PEread nonInternal: 42066
+PEread short insert <20bp: 4630
+PEread long insert >=20bp: 37436
+Before filter q20: 37436
+After filter q20: 5215
+Total nonInternal Read long: 5215
+Total Unique NonInternal Read Long Pair:  571
+Total nonInternal Read long: 5215
+Total Unique NonInternal Read Long Pair with counts:  571
+
+1ACATCG2TAGCTT.txt
+PEread internal: 12718
+PEread nonInternal: 71413
+PEread short insert <20bp: 10039
+PEread long insert >=20bp: 61374
+Before filter q20: 61374
+After filter q20: 10314
+Total nonInternal Read long: 10314
+Total Unique NonInternal Read Long Pair:  1078
+Total nonInternal Read long: 10314
+Total Unique NonInternal Read Long Pair with counts:  1078
+
+1GCCTAA2TAGCTT.txt
+PEread internal: 11183
+PEread nonInternal: 78696
+PEread short insert <20bp: 12422
+PEread long insert >=20bp: 66274
+Before filter q20: 66274
+After filter q20: 10983
+Total nonInternal Read long: 10983
+Total Unique NonInternal Read Long Pair:  1215
+Total nonInternal Read long: 10983
+Total Unique NonInternal Read Long Pair with counts:  1215
+
+1TGGTCA2TAGCTT.txt
+PEread internal: 12581
+PEread nonInternal: 79255
+PEread short insert <20bp: 15779
+PEread long insert >=20bp: 63476
+Before filter q20: 63476
+After filter q20: 10972
+Total nonInternal Read long: 10972
+Total Unique NonInternal Read Long Pair:  1325
+Total nonInternal Read long: 10972
+Total Unique NonInternal Read Long Pair with counts:  1325
+
+1CACTGT2TAGCTT.txt
+PEread internal: 15310
+PEread nonInternal: 96593
+PEread short insert <20bp: 14819
+PEread long insert >=20bp: 81774
+Before filter q20: 81774
+After filter q20: 17077
+Total nonInternal Read long: 17077
+Total Unique NonInternal Read Long Pair:  1709
+Total nonInternal Read long: 17077
+Total Unique NonInternal Read Long Pair with counts:  1709
+
+1TGACCA2TAGCTT.txt
+PEread internal: 16383
+PEread nonInternal: 98903
+PEread short insert <20bp: 15824
+PEread long insert >=20bp: 83079
+Before filter q20: 83079
+After filter q20: 16491
+Total nonInternal Read long: 16491
+Total Unique NonInternal Read Long Pair:  1712
+Total nonInternal Read long: 16491
+Total Unique NonInternal Read Long Pair with counts:  1712
+
+1CGTACG2TAGCTT.txt
+PEread internal: 18760
+PEread nonInternal: 93181
+PEread short insert <20bp: 15134
+PEread long insert >=20bp: 78047
+Before filter q20: 78047
+After filter q20: 18032
+Total nonInternal Read long: 18032
+Total Unique NonInternal Read Long Pair:  1558
+Total nonInternal Read long: 18032
+Total Unique NonInternal Read Long Pair with counts:  1558
+
+1CGTGAT2CTTGTA.txt
+PEread internal: 5464
+PEread nonInternal: 38114
+PEread short insert <20bp: 5063
+PEread long insert >=20bp: 33051
+Before filter q20: 33051
+After filter q20: 5228
+Total nonInternal Read long: 5228
+Total Unique NonInternal Read Long Pair:  581
+Total nonInternal Read long: 5228
+Total Unique NonInternal Read Long Pair with counts:  581
+
+1ACATCG2CTTGTA.txt
+PEread internal: 12155
+PEread nonInternal: 75595
+PEread short insert <20bp: 11202
+PEread long insert >=20bp: 64393
+Before filter q20: 64393
+After filter q20: 11950
+Total nonInternal Read long: 11950
+Total Unique NonInternal Read Long Pair:  1220
+Total nonInternal Read long: 11950
+Total Unique NonInternal Read Long Pair with counts:  1220
+
+1GCCTAA2CTTGTA.txt
+PEread internal: 10169
+PEread nonInternal: 81048
+PEread short insert <20bp: 13984
+PEread long insert >=20bp: 67064
+Before filter q20: 67064
+After filter q20: 11371
+Total nonInternal Read long: 11371
+Total Unique NonInternal Read Long Pair:  1299
+Total nonInternal Read long: 11371
+Total Unique NonInternal Read Long Pair with counts:  1299
+
+1TGGTCA2CTTGTA.txt
+PEread internal: 10742
+PEread nonInternal: 71272
+PEread short insert <20bp: 10896
+PEread long insert >=20bp: 60376
+Before filter q20: 60376
+After filter q20: 9992
+Total nonInternal Read long: 9992
+Total Unique NonInternal Read Long Pair:  1084
+Total nonInternal Read long: 9992
+Total Unique NonInternal Read Long Pair with counts:  1084
+
+1CACTGT2CTTGTA.txt
+PEread internal: 14434
+PEread nonInternal: 107454
+PEread short insert <20bp: 15141
+PEread long insert >=20bp: 92313
+Before filter q20: 92313
+After filter q20: 14247
+Total nonInternal Read long: 14247
+Total Unique NonInternal Read Long Pair:  1561
+Total nonInternal Read long: 14247
+Total Unique NonInternal Read Long Pair with counts:  1561
+
+1TGACCA2CTTGTA.txt
+PEread internal: 15439
+PEread nonInternal: 103382
+PEread short insert <20bp: 14639
+PEread long insert >=20bp: 88743
+Before filter q20: 88743
+After filter q20: 12530
+Total nonInternal Read long: 12530
+Total Unique NonInternal Read Long Pair:  1505
+Total nonInternal Read long: 12530
+Total Unique NonInternal Read Long Pair with counts:  1505
+
+1CGTACG2CTTGTA.txt
+PEread internal: 14526
+PEread nonInternal: 102380
+PEread short insert <20bp: 16083
+PEread long insert >=20bp: 86297
+Before filter q20: 86297
+After filter q20: 14891
+Total nonInternal Read long: 14891
+Total Unique NonInternal Read Long Pair:  1354
+Total nonInternal Read long: 14891
+Total Unique NonInternal Read Long Pair with counts:  1354
+
+1CGTGAT2ATTGGC.txt
+PEread internal: 7007
+PEread nonInternal: 44981
+PEread short insert <20bp: 7253
+PEread long insert >=20bp: 37728
+Before filter q20: 37728
+After filter q20: 6339
+Total nonInternal Read long: 6339
+Total Unique NonInternal Read Long Pair:  848
+Total nonInternal Read long: 6339
+Total Unique NonInternal Read Long Pair with counts:  848
+
+1ACATCG2ATTGGC.txt
+PEread internal: 13023
+PEread nonInternal: 85077
+PEread short insert <20bp: 13467
+PEread long insert >=20bp: 71610
+Before filter q20: 71610
+After filter q20: 12057
+Total nonInternal Read long: 12057
+Total Unique NonInternal Read Long Pair:  1764
+Total nonInternal Read long: 12057
+Total Unique NonInternal Read Long Pair with counts:  1764
+
+1GCCTAA2ATTGGC.txt
+PEread internal: 11308
+PEread nonInternal: 77709
+PEread short insert <20bp: 12876
+PEread long insert >=20bp: 64833
+Before filter q20: 64833
+After filter q20: 9651
+Total nonInternal Read long: 9651
+Total Unique NonInternal Read Long Pair:  1459
+Total nonInternal Read long: 9651
+Total Unique NonInternal Read Long Pair with counts:  1459
+
+1TGGTCA2ATTGGC.txt
+PEread internal: 10408
+PEread nonInternal: 76322
+PEread short insert <20bp: 11270
+PEread long insert >=20bp: 65052
+Before filter q20: 65052
+After filter q20: 8667
+Total nonInternal Read long: 8667
+Total Unique NonInternal Read Long Pair:  1305
+Total nonInternal Read long: 8667
+Total Unique NonInternal Read Long Pair with counts:  1305
+
+1CACTGT2ATTGGC.txt
+PEread internal: 17175
+PEread nonInternal: 119882
+PEread short insert <20bp: 17502
+PEread long insert >=20bp: 102380
+Before filter q20: 102380
+After filter q20: 13247
+Total nonInternal Read long: 13247
+Total Unique NonInternal Read Long Pair:  1914
+Total nonInternal Read long: 13247
+Total Unique NonInternal Read Long Pair with counts:  1914
+
+1TGACCA2ATTGGC.txt
+PEread internal: 13769
+PEread nonInternal: 104186
+PEread short insert <20bp: 12957
+PEread long insert >=20bp: 91229
+Before filter q20: 91229
+After filter q20: 16053
+Total nonInternal Read long: 16053
+Total Unique NonInternal Read Long Pair:  1951
+Total nonInternal Read long: 16053
+Total Unique NonInternal Read Long Pair with counts:  1951
+
+1CGTGAT2TCAAGT.txt
+PEread internal: 3111
+PEread nonInternal: 19716
+PEread short insert <20bp: 2835
+PEread long insert >=20bp: 16881
+Before filter q20: 16881
+After filter q20: 3597
+Total nonInternal Read long: 3597
+Total Unique NonInternal Read Long Pair:  515
+Total nonInternal Read long: 3597
+Total Unique NonInternal Read Long Pair with counts:  515
+
+1ACATCG2TCAAGT.txt
+PEread internal: 6167
+PEread nonInternal: 45792
+PEread short insert <20bp: 6773
+PEread long insert >=20bp: 39019
+Before filter q20: 39019
+After filter q20: 7545
+Total nonInternal Read long: 7545
+Total Unique NonInternal Read Long Pair:  1318
+Total nonInternal Read long: 7545
+Total Unique NonInternal Read Long Pair with counts:  1318
+
+1GCCTAA2TCAAGT.txt
+PEread internal: 7893
+PEread nonInternal: 43901
+PEread short insert <20bp: 6748
+PEread long insert >=20bp: 37153
+Before filter q20: 37153
+After filter q20: 6541
+Total nonInternal Read long: 6541
+Total Unique NonInternal Read Long Pair:  970
+Total nonInternal Read long: 6541
+Total Unique NonInternal Read Long Pair with counts:  970
+
+1TGGTCA2TCAAGT.txt
+PEread internal: 6533
+PEread nonInternal: 44982
+PEread short insert <20bp: 7359
+PEread long insert >=20bp: 37623
+Before filter q20: 37623
+After filter q20: 6842
+Total nonInternal Read long: 6842
+Total Unique NonInternal Read Long Pair:  1363
+Total nonInternal Read long: 6842
+Total Unique NonInternal Read Long Pair with counts:  1363
+
+1CACTGT2TCAAGT.txt
+PEread internal: 10493
+PEread nonInternal: 58571
+PEread short insert <20bp: 7576
+PEread long insert >=20bp: 50995
+Before filter q20: 50995
+After filter q20: 9427
+Total nonInternal Read long: 9427
+Total Unique NonInternal Read Long Pair:  1724
+Total nonInternal Read long: 9427
+Total Unique NonInternal Read Long Pair with counts:  1724
+
+1TGACCA2TCAAGT.txt
+PEread internal: 7441
+PEread nonInternal: 61923
+PEread short insert <20bp: 8642
+PEread long insert >=20bp: 53281
+Before filter q20: 53281
+After filter q20: 10975
+Total nonInternal Read long: 10975
+Total Unique NonInternal Read Long Pair:  1512
+Total nonInternal Read long: 10975
+Total Unique NonInternal Read Long Pair with counts:  1512
+
+1CGTACG2TCAAGT.txt
+PEread internal: 10186
+PEread nonInternal: 57300
+PEread short insert <20bp: 7142
+PEread long insert >=20bp: 50158
+Before filter q20: 50158
+After filter q20: 9048
+Total nonInternal Read long: 9048
+Total Unique NonInternal Read Long Pair:  1435
+Total nonInternal Read long: 9048
+Total Unique NonInternal Read Long Pair with counts:  1435
+
+1CGTGAT2CTGATC.txt
+PEread internal: 4452
+PEread nonInternal: 32308
+PEread short insert <20bp: 4555
+PEread long insert >=20bp: 27753
+Before filter q20: 27753
+After filter q20: 3070
+Total nonInternal Read long: 3070
+Total Unique NonInternal Read Long Pair:  791
+Total nonInternal Read long: 3070
+Total Unique NonInternal Read Long Pair with counts:  791
+
+1ACATCG2CTGATC.txt
+PEread internal: 9131
+PEread nonInternal: 69968
+PEread short insert <20bp: 10310
+PEread long insert >=20bp: 59658
+Before filter q20: 59658
+After filter q20: 8000
+Total nonInternal Read long: 8000
+Total Unique NonInternal Read Long Pair:  1797
+Total nonInternal Read long: 8000
+Total Unique NonInternal Read Long Pair with counts:  1797
+
+1GCCTAA2CTGATC.txt
+PEread internal: 8717
+PEread nonInternal: 69961
+PEread short insert <20bp: 10925
+PEread long insert >=20bp: 59036
+Before filter q20: 59036
+After filter q20: 6528
+Total nonInternal Read long: 6528
+Total Unique NonInternal Read Long Pair:  1896
+Total nonInternal Read long: 6528
+Total Unique NonInternal Read Long Pair with counts:  1896
+
+1TGGTCA2CTGATC.txt
+PEread internal: 6993
+PEread nonInternal: 65626
+PEread short insert <20bp: 11336
+PEread long insert >=20bp: 54290
+Before filter q20: 54290
+After filter q20: 6218
+Total nonInternal Read long: 6218
+Total Unique NonInternal Read Long Pair:  1210
+Total nonInternal Read long: 6218
+Total Unique NonInternal Read Long Pair with counts:  1210
+
+1CACTGT2CTGATC.txt
+PEread internal: 11052
+PEread nonInternal: 97920
+PEread short insert <20bp: 14196
+PEread long insert >=20bp: 83724
+Before filter q20: 83724
+After filter q20: 9709
+Total nonInternal Read long: 9709
+Total Unique NonInternal Read Long Pair:  1677
+Total nonInternal Read long: 9709
+Total Unique NonInternal Read Long Pair with counts:  1677
+
+1TGACCA2CTGATC.txt
+PEread internal: 10999
+PEread nonInternal: 87637
+PEread short insert <20bp: 10077
+PEread long insert >=20bp: 77560
+Before filter q20: 77560
+After filter q20: 9343
+Total nonInternal Read long: 9343
+Total Unique NonInternal Read Long Pair:  1530
+Total nonInternal Read long: 9343
+Total Unique NonInternal Read Long Pair with counts:  1530
+
+1CGTACG2CTGATC.txt
+PEread internal: 11614
+PEread nonInternal: 94349
+PEread short insert <20bp: 14378
+PEread long insert >=20bp: 79971
+Before filter q20: 79971
+After filter q20: 8904
+Total nonInternal Read long: 8904
+Total Unique NonInternal Read Long Pair:  1342
+Total nonInternal Read long: 8904
+Total Unique NonInternal Read Long Pair with counts:  1342
+
+1CGTGAT2AAGCTA.txt
+PEread internal: 35
+PEread nonInternal: 17368
+PEread short insert <20bp: 23
+PEread long insert >=20bp: 17345
+Before filter q20: 17345
+After filter q20: 32
+Total nonInternal Read long: 32
+Total Unique NonInternal Read Long Pair:  16
+Total nonInternal Read long: 32
+Total Unique NonInternal Read Long Pair with counts:  16
+
+1ACATCG2AAGCTA.txt
+PEread internal: 11359
+PEread nonInternal: 40221
+PEread short insert <20bp: 13324
+PEread long insert >=20bp: 26897
+Before filter q20: 26897
+After filter q20: 9756
+Total nonInternal Read long: 9756
+Total Unique NonInternal Read Long Pair:  1683
+Total nonInternal Read long: 9756
+Total Unique NonInternal Read Long Pair with counts:  1683
+
+1GCCTAA2AAGCTA.txt
+PEread internal: 12743
+PEread nonInternal: 81157
+PEread short insert <20bp: 12078
+PEread long insert >=20bp: 69079
+Before filter q20: 69079
+After filter q20: 7497
+Total nonInternal Read long: 7497
+Total Unique NonInternal Read Long Pair:  1312
+Total nonInternal Read long: 7497
+Total Unique NonInternal Read Long Pair with counts:  1312
+
+1TGGTCA2AAGCTA.txt
+PEread internal: 10944
+PEread nonInternal: 81785
+PEread short insert <20bp: 13728
+PEread long insert >=20bp: 68057
+Before filter q20: 68057
+After filter q20: 10462
+Total nonInternal Read long: 10462
+Total Unique NonInternal Read Long Pair:  1780
+Total nonInternal Read long: 10462
+Total Unique NonInternal Read Long Pair with counts:  1780
+
+1CACTGT2AAGCTA.txt
+PEread internal: 14748
+PEread nonInternal: 112870
+PEread short insert <20bp: 15854
+PEread long insert >=20bp: 97016
+Before filter q20: 97016
+After filter q20: 12987
+Total nonInternal Read long: 12987
+Total Unique NonInternal Read Long Pair:  1520
+Total nonInternal Read long: 12987
+Total Unique NonInternal Read Long Pair with counts:  1520
+
+1TGACCA2AAGCTA.txt
+PEread internal: 16084
+PEread nonInternal: 101557
+PEread short insert <20bp: 14105
+PEread long insert >=20bp: 87452
+Before filter q20: 87452
+After filter q20: 7946
+Total nonInternal Read long: 7946
+Total Unique NonInternal Read Long Pair:  1588
+Total nonInternal Read long: 7946
+Total Unique NonInternal Read Long Pair with counts:  1588
+
+1CGTGAT2TAGCTT.txt
+PEread internal: 12116
+PEread nonInternal: 81715
+PEread short insert <20bp: 16685
+PEread long insert >=20bp: 65030
+Before filter q20: 65030
+After filter q20: 9869
+Total nonInternal Read long: 9869
+Total Unique NonInternal Read Long Pair:  2484
+Total nonInternal Read long: 9869
+Total Unique NonInternal Read Long Pair with counts:  2484
+
+1ACATCG2TAGCTT.txt
+PEread internal: 15373
+PEread nonInternal: 93949
+PEread short insert <20bp: 14661
+PEread long insert >=20bp: 79288
+Before filter q20: 79288
+After filter q20: 12679
+Total nonInternal Read long: 12679
+Total Unique NonInternal Read Long Pair:  2242
+Total nonInternal Read long: 12679
+Total Unique NonInternal Read Long Pair with counts:  2242
+
+1GCCTAA2TAGCTT.txt
+PEread internal: 17017
+PEread nonInternal: 92207
+PEread short insert <20bp: 13465
+PEread long insert >=20bp: 78742
+Before filter q20: 78742
+After filter q20: 12578
+Total nonInternal Read long: 12578
+Total Unique NonInternal Read Long Pair:  2090
+Total nonInternal Read long: 12578
+Total Unique NonInternal Read Long Pair with counts:  2090
+
+1TGGTCA2TAGCTT.txt
+PEread internal: 10141
+PEread nonInternal: 83203
+PEread short insert <20bp: 13830
+PEread long insert >=20bp: 69373
+Before filter q20: 69373
+After filter q20: 9405
+Total nonInternal Read long: 9405
+Total Unique NonInternal Read Long Pair:  2069
+Total nonInternal Read long: 9405
+Total Unique NonInternal Read Long Pair with counts:  2069
+
+1CACTGT2TAGCTT.txt
+PEread internal: 14396
+PEread nonInternal: 92290
+PEread short insert <20bp: 13385
+PEread long insert >=20bp: 78905
+Before filter q20: 78905
+After filter q20: 11527
+Total nonInternal Read long: 11527
+Total Unique NonInternal Read Long Pair:  2211
+Total nonInternal Read long: 11527
+Total Unique NonInternal Read Long Pair with counts:  2211
+
+1TGACCA2TAGCTT.txt
+PEread internal: 12807
+PEread nonInternal: 86196
+PEread short insert <20bp: 13369
+PEread long insert >=20bp: 72827
+Before filter q20: 72827
+After filter q20: 12280
+Total nonInternal Read long: 12280
+Total Unique NonInternal Read Long Pair:  2196
+Total nonInternal Read long: 12280
+Total Unique NonInternal Read Long Pair with counts:  2196
+
+1CGTACG2TAGCTT.txt
+PEread internal: 18376
+PEread nonInternal: 104660
+PEread short insert <20bp: 18628
+PEread long insert >=20bp: 86032
+Before filter q20: 86032
+After filter q20: 16702
+Total nonInternal Read long: 16702
+Total Unique NonInternal Read Long Pair:  2511
+Total nonInternal Read long: 16702
+Total Unique NonInternal Read Long Pair with counts:  2511
+
+1CGTGAT2CTTGTA.txt
+PEread internal: 13286
+PEread nonInternal: 75352
+PEread short insert <20bp: 13530
+PEread long insert >=20bp: 61822
+Before filter q20: 61822
+After filter q20: 12047
+Total nonInternal Read long: 12047
+Total Unique NonInternal Read Long Pair:  1932
+Total nonInternal Read long: 12047
+Total Unique NonInternal Read Long Pair with counts:  1932
+
+1ACATCG2CTTGTA.txt
+PEread internal: 15775
+PEread nonInternal: 91673
+PEread short insert <20bp: 14792
+PEread long insert >=20bp: 76881
+Before filter q20: 76881
+After filter q20: 11095
+Total nonInternal Read long: 11095
+Total Unique NonInternal Read Long Pair:  2665
+Total nonInternal Read long: 11095
+Total Unique NonInternal Read Long Pair with counts:  2665
+
+1GCCTAA2CTTGTA.txt
+PEread internal: 14865
+PEread nonInternal: 97572
+PEread short insert <20bp: 15325
+PEread long insert >=20bp: 82247
+Before filter q20: 82247
+After filter q20: 13983
+Total nonInternal Read long: 13983
+Total Unique NonInternal Read Long Pair:  2109
+Total nonInternal Read long: 13983
+Total Unique NonInternal Read Long Pair with counts:  2109
+
+1TGGTCA2CTTGTA.txt
+PEread internal: 13472
+PEread nonInternal: 82312
+PEread short insert <20bp: 12769
+PEread long insert >=20bp: 69543
+Before filter q20: 69543
+After filter q20: 11492
+Total nonInternal Read long: 11492
+Total Unique NonInternal Read Long Pair:  1733
+Total nonInternal Read long: 11492
+Total Unique NonInternal Read Long Pair with counts:  1733
+
+1CACTGT2CTTGTA.txt
+PEread internal: 13708
+PEread nonInternal: 95526
+PEread short insert <20bp: 15357
+PEread long insert >=20bp: 80169
+Before filter q20: 80169
+After filter q20: 12431
+Total nonInternal Read long: 12431
+Total Unique NonInternal Read Long Pair:  2109
+Total nonInternal Read long: 12431
+Total Unique NonInternal Read Long Pair with counts:  2109
+
+1TGACCA2CTTGTA.txt
+PEread internal: 17787
+PEread nonInternal: 83217
+PEread short insert <20bp: 12712
+PEread long insert >=20bp: 70505
+Before filter q20: 70505
+After filter q20: 8795
+Total nonInternal Read long: 8795
+Total Unique NonInternal Read Long Pair:  1558
+Total nonInternal Read long: 8795
+Total Unique NonInternal Read Long Pair with counts:  1558
+
+1CGTACG2CTTGTA.txt
+PEread internal: 21026
+PEread nonInternal: 108861
+PEread short insert <20bp: 16878
+PEread long insert >=20bp: 91983
+Before filter q20: 91983
+After filter q20: 16647
+Total nonInternal Read long: 16647
+Total Unique NonInternal Read Long Pair:  2667
+Total nonInternal Read long: 16647
+Total Unique NonInternal Read Long Pair with counts:  2667
+
+1CGTGAT2ATTGGC.txt
+PEread internal: 13019
+PEread nonInternal: 84268
+PEread short insert <20bp: 14796
+PEread long insert >=20bp: 69472
+Before filter q20: 69472
+After filter q20: 12840
+Total nonInternal Read long: 12840
+Total Unique NonInternal Read Long Pair:  2557
+Total nonInternal Read long: 12840
+Total Unique NonInternal Read Long Pair with counts:  2557
+
+1ACATCG2ATTGGC.txt
+PEread internal: 15603
+PEread nonInternal: 101441
+PEread short insert <20bp: 14473
+PEread long insert >=20bp: 86968
+Before filter q20: 86968
+After filter q20: 12035
+Total nonInternal Read long: 12035
+Total Unique NonInternal Read Long Pair:  2887
+Total nonInternal Read long: 12035
+Total Unique NonInternal Read Long Pair with counts:  2887
+
+1GCCTAA2ATTGGC.txt
+PEread internal: 15079
+PEread nonInternal: 109722
+PEread short insert <20bp: 14700
+PEread long insert >=20bp: 95022
+Before filter q20: 95022
+After filter q20: 13607
+Total nonInternal Read long: 13607
+Total Unique NonInternal Read Long Pair:  2740
+Total nonInternal Read long: 13607
+Total Unique NonInternal Read Long Pair with counts:  2740
+
+1TGGTCA2ATTGGC.txt
+PEread internal: 15477
+PEread nonInternal: 94847
+PEread short insert <20bp: 15535
+PEread long insert >=20bp: 79312
+Before filter q20: 79312
+After filter q20: 12088
+Total nonInternal Read long: 12088
+Total Unique NonInternal Read Long Pair:  3012
+Total nonInternal Read long: 12088
+Total Unique NonInternal Read Long Pair with counts:  3012
+
+1CACTGT2ATTGGC.txt
+PEread internal: 14444
+PEread nonInternal: 115829
+PEread short insert <20bp: 18298
+PEread long insert >=20bp: 97531
+Before filter q20: 97531
+After filter q20: 12792
+Total nonInternal Read long: 12792
+Total Unique NonInternal Read Long Pair:  3509
+Total nonInternal Read long: 12792
+Total Unique NonInternal Read Long Pair with counts:  3509
+
+1TGACCA2ATTGGC.txt
+PEread internal: 13968
+PEread nonInternal: 102247
+PEread short insert <20bp: 15636
+PEread long insert >=20bp: 86611
+Before filter q20: 86611
+After filter q20: 11324
+Total nonInternal Read long: 11324
+Total Unique NonInternal Read Long Pair:  3433
+Total nonInternal Read long: 11324
+Total Unique NonInternal Read Long Pair with counts:  3433
+
+1CGTACG2ATTGGC.txt
+PEread internal: 18712
+PEread nonInternal: 137778
+PEread short insert <20bp: 22513
+PEread long insert >=20bp: 115265
+Before filter q20: 115265
+After filter q20: 15380
+Total nonInternal Read long: 15380
+Total Unique NonInternal Read Long Pair:  5812
+Total nonInternal Read long: 15380
+Total Unique NonInternal Read Long Pair with counts:  5812
+
+1CGTGAT2TCAAGT.txt
+PEread internal: 12555
+PEread nonInternal: 62938
+PEread short insert <20bp: 10992
+PEread long insert >=20bp: 51946
+Before filter q20: 51946
+After filter q20: 7974
+Total nonInternal Read long: 7974
+Total Unique NonInternal Read Long Pair:  1361
+Total nonInternal Read long: 7974
+Total Unique NonInternal Read Long Pair with counts:  1361
+
+1ACATCG2TCAAGT.txt
+PEread internal: 12826
+PEread nonInternal: 78616
+PEread short insert <20bp: 10920
+PEread long insert >=20bp: 67696
+Before filter q20: 67696
+After filter q20: 9250
+Total nonInternal Read long: 9250
+Total Unique NonInternal Read Long Pair:  1462
+Total nonInternal Read long: 9250
+Total Unique NonInternal Read Long Pair with counts:  1462
+
+1GCCTAA2TCAAGT.txt
+PEread internal: 13666
+PEread nonInternal: 84228
+PEread short insert <20bp: 11942
+PEread long insert >=20bp: 72286
+Before filter q20: 72286
+After filter q20: 10238
+Total nonInternal Read long: 10238
+Total Unique NonInternal Read Long Pair:  1508
+Total nonInternal Read long: 10238
+Total Unique NonInternal Read Long Pair with counts:  1508
+
+1TGGTCA2TCAAGT.txt
+PEread internal: 12569
+PEread nonInternal: 74053
+PEread short insert <20bp: 11410
+PEread long insert >=20bp: 62643
+Before filter q20: 62643
+After filter q20: 8666
+Total nonInternal Read long: 8666
+Total Unique NonInternal Read Long Pair:  1419
+Total nonInternal Read long: 8666
+Total Unique NonInternal Read Long Pair with counts:  1419
+
+1CACTGT2TCAAGT.txt
+PEread internal: 12870
+PEread nonInternal: 81517
+PEread short insert <20bp: 12528
+PEread long insert >=20bp: 68989
+Before filter q20: 68989
+After filter q20: 9460
+Total nonInternal Read long: 9460
+Total Unique NonInternal Read Long Pair:  1448
+Total nonInternal Read long: 9460
+Total Unique NonInternal Read Long Pair with counts:  1448
+
+1TGACCA2TCAAGT.txt
+PEread internal: 11699
+PEread nonInternal: 73135
+PEread short insert <20bp: 9752
+PEread long insert >=20bp: 63383
+Before filter q20: 63383
+After filter q20: 8920
+Total nonInternal Read long: 8920
+Total Unique NonInternal Read Long Pair:  1366
+Total nonInternal Read long: 8920
+Total Unique NonInternal Read Long Pair with counts:  1366
+
+1CGTACG2TCAAGT.txt
+PEread internal: 12991
+PEread nonInternal: 85418
+PEread short insert <20bp: 11233
+PEread long insert >=20bp: 74185
+Before filter q20: 74185
+After filter q20: 9342
+Total nonInternal Read long: 9342
+Total Unique NonInternal Read Long Pair:  1461
+Total nonInternal Read long: 9342
+Total Unique NonInternal Read Long Pair with counts:  1461
+
+1CGTGAT2CTGATC.txt
+PEread internal: 12972
+PEread nonInternal: 69242
+PEread short insert <20bp: 11654
+PEread long insert >=20bp: 57588
+Before filter q20: 57588
+After filter q20: 10146
+Total nonInternal Read long: 10146
+Total Unique NonInternal Read Long Pair:  1408
+Total nonInternal Read long: 10146
+Total Unique NonInternal Read Long Pair with counts:  1408
+
+1ACATCG2CTGATC.txt
+PEread internal: 11227
+PEread nonInternal: 85010
+PEread short insert <20bp: 11993
+PEread long insert >=20bp: 73017
+Before filter q20: 73017
+After filter q20: 12568
+Total nonInternal Read long: 12568
+Total Unique NonInternal Read Long Pair:  1411
+Total nonInternal Read long: 12568
+Total Unique NonInternal Read Long Pair with counts:  1411
+
+1GCCTAA2CTGATC.txt
+PEread internal: 15357
+PEread nonInternal: 97590
+PEread short insert <20bp: 14179
+PEread long insert >=20bp: 83411
+Before filter q20: 83411
+After filter q20: 11668
+Total nonInternal Read long: 11668
+Total Unique NonInternal Read Long Pair:  1917
+Total nonInternal Read long: 11668
+Total Unique NonInternal Read Long Pair with counts:  1917
+
+1TGGTCA2CTGATC.txt
+PEread internal: 14127
+PEread nonInternal: 86726
+PEread short insert <20bp: 13935
+PEread long insert >=20bp: 72791
+Before filter q20: 72791
+After filter q20: 10938
+Total nonInternal Read long: 10938
+Total Unique NonInternal Read Long Pair:  1689
+Total nonInternal Read long: 10938
+Total Unique NonInternal Read Long Pair with counts:  1689
+
+1CACTGT2CTGATC.txt
+PEread internal: 14633
+PEread nonInternal: 99638
+PEread short insert <20bp: 15121
+PEread long insert >=20bp: 84517
+Before filter q20: 84517
+After filter q20: 10377
+Total nonInternal Read long: 10377
+Total Unique NonInternal Read Long Pair:  1755
+Total nonInternal Read long: 10377
+Total Unique NonInternal Read Long Pair with counts:  1755
+
+1TGACCA2CTGATC.txt
+PEread internal: 13596
+PEread nonInternal: 89053
+PEread short insert <20bp: 12393
+PEread long insert >=20bp: 76660
+Before filter q20: 76660
+After filter q20: 10521
+Total nonInternal Read long: 10521
+Total Unique NonInternal Read Long Pair:  1691
+Total nonInternal Read long: 10521
+Total Unique NonInternal Read Long Pair with counts:  1691
+
+1CGTGAT2TAGCTT.txt
+PEread internal: 12281
+PEread nonInternal: 66033
+PEread short insert <20bp: 10429
+PEread long insert >=20bp: 55604
+Before filter q20: 55604
+After filter q20: 12771
+Total nonInternal Read long: 12771
+Total Unique NonInternal Read Long Pair:  3175
+Total nonInternal Read long: 12771
+Total Unique NonInternal Read Long Pair with counts:  3175
+
+1ACATCG2TAGCTT.txt
+PEread internal: 13508
+PEread nonInternal: 77578
+PEread short insert <20bp: 13542
+PEread long insert >=20bp: 64036
+Before filter q20: 64036
+After filter q20: 12752
+Total nonInternal Read long: 12752
+Total Unique NonInternal Read Long Pair:  3495
+Total nonInternal Read long: 12752
+Total Unique NonInternal Read Long Pair with counts:  3495
+
+1GCCTAA2TAGCTT.txt
+PEread internal: 15124
+PEread nonInternal: 101038
+PEread short insert <20bp: 10675
+PEread long insert >=20bp: 90363
+Before filter q20: 90363
+After filter q20: 14702
+Total nonInternal Read long: 14702
+Total Unique NonInternal Read Long Pair:  2551
+Total nonInternal Read long: 14702
+Total Unique NonInternal Read Long Pair with counts:  2551
+
+1TGGTCA2TAGCTT.txt
+PEread internal: 17718
+PEread nonInternal: 65475
+PEread short insert <20bp: 10050
+PEread long insert >=20bp: 55425
+Before filter q20: 55425
+After filter q20: 12597
+Total nonInternal Read long: 12597
+Total Unique NonInternal Read Long Pair:  2753
+Total nonInternal Read long: 12597
+Total Unique NonInternal Read Long Pair with counts:  2753
+
+1CACTGT2TAGCTT.txt
+PEread internal: 13598
+PEread nonInternal: 71627
+PEread short insert <20bp: 8874
+PEread long insert >=20bp: 62753
+Before filter q20: 62753
+After filter q20: 16242
+Total nonInternal Read long: 16242
+Total Unique NonInternal Read Long Pair:  1691
+Total nonInternal Read long: 16242
+Total Unique NonInternal Read Long Pair with counts:  1691
+
+1TGACCA2TAGCTT.txt
+PEread internal: 12283
+PEread nonInternal: 73161
+PEread short insert <20bp: 11343
+PEread long insert >=20bp: 61818
+Before filter q20: 61818
+After filter q20: 17565
+Total nonInternal Read long: 17565
+Total Unique NonInternal Read Long Pair:  2431
+Total nonInternal Read long: 17565
+Total Unique NonInternal Read Long Pair with counts:  2431
+
+1CGTACG2TAGCTT.txt
+PEread internal: 16389
+PEread nonInternal: 81549
+PEread short insert <20bp: 12339
+PEread long insert >=20bp: 69210
+Before filter q20: 69210
+After filter q20: 21062
+Total nonInternal Read long: 21062
+Total Unique NonInternal Read Long Pair:  1984
+Total nonInternal Read long: 21062
+Total Unique NonInternal Read Long Pair with counts:  1984
+
+1CGTGAT2CTTGTA.txt
+PEread internal: 10877
+PEread nonInternal: 80622
+PEread short insert <20bp: 10810
+PEread long insert >=20bp: 69812
+Before filter q20: 69812
+After filter q20: 15983
+Total nonInternal Read long: 15983
+Total Unique NonInternal Read Long Pair:  2103
+Total nonInternal Read long: 15983
+Total Unique NonInternal Read Long Pair with counts:  2103
+
+1ACATCG2CTTGTA.txt
+PEread internal: 13875
+PEread nonInternal: 87576
+PEread short insert <20bp: 12946
+PEread long insert >=20bp: 74630
+Before filter q20: 74630
+After filter q20: 12321
+Total nonInternal Read long: 12321
+Total Unique NonInternal Read Long Pair:  1650
+Total nonInternal Read long: 12321
+Total Unique NonInternal Read Long Pair with counts:  1650
+
+1GCCTAA2CTTGTA.txt
+PEread internal: 14323
+PEread nonInternal: 86496
+PEread short insert <20bp: 8395
+PEread long insert >=20bp: 78101
+Before filter q20: 78101
+After filter q20: 16607
+Total nonInternal Read long: 16607
+Total Unique NonInternal Read Long Pair:  1784
+Total nonInternal Read long: 16607
+Total Unique NonInternal Read Long Pair with counts:  1784
+
+1TGGTCA2CTTGTA.txt
+PEread internal: 13556
+PEread nonInternal: 75916
+PEread short insert <20bp: 7412
+PEread long insert >=20bp: 68504
+Before filter q20: 68504
+After filter q20: 13155
+Total nonInternal Read long: 13155
+Total Unique NonInternal Read Long Pair:  1401
+Total nonInternal Read long: 13155
+Total Unique NonInternal Read Long Pair with counts:  1401
+
+1CACTGT2CTTGTA.txt
+PEread internal: 14046
+PEread nonInternal: 82922
+PEread short insert <20bp: 6916
+PEread long insert >=20bp: 76006
+Before filter q20: 76006
+After filter q20: 15148
+Total nonInternal Read long: 15148
+Total Unique NonInternal Read Long Pair:  1581
+Total nonInternal Read long: 15148
+Total Unique NonInternal Read Long Pair with counts:  1581
+
+1TGACCA2CTTGTA.txt
+PEread internal: 14759
+PEread nonInternal: 91087
+PEread short insert <20bp: 9703
+PEread long insert >=20bp: 81384
+Before filter q20: 81384
+After filter q20: 15733
+Total nonInternal Read long: 15733
+Total Unique NonInternal Read Long Pair:  1755
+Total nonInternal Read long: 15733
+Total Unique NonInternal Read Long Pair with counts:  1755
+
+1CGTACG2CTTGTA.txt
+PEread internal: 15781
+PEread nonInternal: 87743
+PEread short insert <20bp: 9595
+PEread long insert >=20bp: 78148
+Before filter q20: 78148
+After filter q20: 19411
+Total nonInternal Read long: 19411
+Total Unique NonInternal Read Long Pair:  1958
+Total nonInternal Read long: 19411
+Total Unique NonInternal Read Long Pair with counts:  1958
+
+1CGTGAT2ATTGGC.txt
+PEread internal: 13339
+PEread nonInternal: 74367
+PEread short insert <20bp: 7535
+PEread long insert >=20bp: 66832
+Before filter q20: 66832
+After filter q20: 12671
+Total nonInternal Read long: 12671
+Total Unique NonInternal Read Long Pair:  2110
+Total nonInternal Read long: 12671
+Total Unique NonInternal Read Long Pair with counts:  2110
+
+1ACATCG2ATTGGC.txt
+PEread internal: 12149
+PEread nonInternal: 110663
+PEread short insert <20bp: 13451
+PEread long insert >=20bp: 97212
+Before filter q20: 97212
+After filter q20: 16166
+Total nonInternal Read long: 16166
+Total Unique NonInternal Read Long Pair:  3209
+Total nonInternal Read long: 16166
+Total Unique NonInternal Read Long Pair with counts:  3209
+
+1GCCTAA2ATTGGC.txt
+PEread internal: 11874
+PEread nonInternal: 77814
+PEread short insert <20bp: 6139
+PEread long insert >=20bp: 71675
+Before filter q20: 71675
+After filter q20: 13227
+Total nonInternal Read long: 13227
+Total Unique NonInternal Read Long Pair:  2149
+Total nonInternal Read long: 13227
+Total Unique NonInternal Read Long Pair with counts:  2149
+
+1TGGTCA2ATTGGC.txt
+PEread internal: 10206
+PEread nonInternal: 88152
+PEread short insert <20bp: 5912
+PEread long insert >=20bp: 82240
+Before filter q20: 82240
+After filter q20: 14492
+Total nonInternal Read long: 14492
+Total Unique NonInternal Read Long Pair:  1937
+Total nonInternal Read long: 14492
+Total Unique NonInternal Read Long Pair with counts:  1937
+
+1CACTGT2ATTGGC.txt
+PEread internal: 2867
+PEread nonInternal: 59329
+PEread short insert <20bp: 1152
+PEread long insert >=20bp: 58177
+Before filter q20: 58177
+After filter q20: 3534
+Total nonInternal Read long: 3534
+Total Unique NonInternal Read Long Pair:  730
+Total nonInternal Read long: 3534
+Total Unique NonInternal Read Long Pair with counts:  730
+
+1TGACCA2ATTGGC.txt
+PEread internal: 15614
+PEread nonInternal: 99045
+PEread short insert <20bp: 9596
+PEread long insert >=20bp: 89449
+Before filter q20: 89449
+After filter q20: 18296
+Total nonInternal Read long: 18296
+Total Unique NonInternal Read Long Pair:  2645
+Total nonInternal Read long: 18296
+Total Unique NonInternal Read Long Pair with counts:  2645
+
+1CGTACG2ATTGGC.txt
+PEread internal: 11949
+PEread nonInternal: 87802
+PEread short insert <20bp: 10743
+PEread long insert >=20bp: 77059
+Before filter q20: 77059
+After filter q20: 18834
+Total nonInternal Read long: 18834
+Total Unique NonInternal Read Long Pair:  3229
+Total nonInternal Read long: 18834
+Total Unique NonInternal Read Long Pair with counts:  3229
+
+1CGTGAT2GATCTG.txt
+PEread internal: 12826
+PEread nonInternal: 62702
+PEread short insert <20bp: 6299
+PEread long insert >=20bp: 56403
+Before filter q20: 56403
+After filter q20: 10557
+Total nonInternal Read long: 10557
+Total Unique NonInternal Read Long Pair:  1219
+Total nonInternal Read long: 10557
+Total Unique NonInternal Read Long Pair with counts:  1219
+
+1ACATCG2GATCTG.txt
+PEread internal: 14207
+PEread nonInternal: 74517
+PEread short insert <20bp: 11313
+PEread long insert >=20bp: 63204
+Before filter q20: 63204
+After filter q20: 13747
+Total nonInternal Read long: 13747
+Total Unique NonInternal Read Long Pair:  1539
+Total nonInternal Read long: 13747
+Total Unique NonInternal Read Long Pair with counts:  1539
+
+1GCCTAA2GATCTG.txt
+PEread internal: 12864
+PEread nonInternal: 67982
+PEread short insert <20bp: 6120
+PEread long insert >=20bp: 61862
+Before filter q20: 61862
+After filter q20: 16759
+Total nonInternal Read long: 16759
+Total Unique NonInternal Read Long Pair:  1632
+Total nonInternal Read long: 16759
+Total Unique NonInternal Read Long Pair with counts:  1632
+
+1TGGTCA2GATCTG.txt
+PEread internal: 14428
+PEread nonInternal: 66845
+PEread short insert <20bp: 7843
+PEread long insert >=20bp: 59002
+Before filter q20: 59002
+After filter q20: 14477
+Total nonInternal Read long: 14477
+Total Unique NonInternal Read Long Pair:  1757
+Total nonInternal Read long: 14477
+Total Unique NonInternal Read Long Pair with counts:  1757
+
+1CACTGT2GATCTG.txt
+PEread internal: 14482
+PEread nonInternal: 87973
+PEread short insert <20bp: 9671
+PEread long insert >=20bp: 78302
+Before filter q20: 78302
+After filter q20: 13317
+Total nonInternal Read long: 13317
+Total Unique NonInternal Read Long Pair:  1470
+Total nonInternal Read long: 13317
+Total Unique NonInternal Read Long Pair with counts:  1470
+
+1TGACCA2GATCTG.txt
+PEread internal: 15767
+PEread nonInternal: 74281
+PEread short insert <20bp: 9638
+PEread long insert >=20bp: 64643
+Before filter q20: 64643
+After filter q20: 12681
+Total nonInternal Read long: 12681
+Total Unique NonInternal Read Long Pair:  2180
+Total nonInternal Read long: 12681
+Total Unique NonInternal Read Long Pair with counts:  2180
+
+1CGTACG2GATCTG.txt
+PEread internal: 14232
+PEread nonInternal: 73539
+PEread short insert <20bp: 8323
+PEread long insert >=20bp: 65216
+Before filter q20: 65216
+After filter q20: 15219
+Total nonInternal Read long: 15219
+Total Unique NonInternal Read Long Pair:  1570
+Total nonInternal Read long: 15219
+Total Unique NonInternal Read Long Pair with counts:  1570
+
+1CGTGAT2TCAAGT.txt
+PEread internal: 8919
+PEread nonInternal: 53381
+PEread short insert <20bp: 6133
+PEread long insert >=20bp: 47248
+Before filter q20: 47248
+After filter q20: 9964
+Total nonInternal Read long: 9964
+Total Unique NonInternal Read Long Pair:  1040
+Total nonInternal Read long: 9964
+Total Unique NonInternal Read Long Pair with counts:  1040
+
+1ACATCG2TCAAGT.txt
+PEread internal: 12369
+PEread nonInternal: 58624
+PEread short insert <20bp: 6730
+PEread long insert >=20bp: 51894
+Before filter q20: 51894
+After filter q20: 13717
+Total nonInternal Read long: 13717
+Total Unique NonInternal Read Long Pair:  1227
+Total nonInternal Read long: 13717
+Total Unique NonInternal Read Long Pair with counts:  1227
+
+1GCCTAA2TCAAGT.txt
+PEread internal: 10848
+PEread nonInternal: 65263
+PEread short insert <20bp: 8508
+PEread long insert >=20bp: 56755
+Before filter q20: 56755
+After filter q20: 10189
+Total nonInternal Read long: 10189
+Total Unique NonInternal Read Long Pair:  1324
+Total nonInternal Read long: 10189
+Total Unique NonInternal Read Long Pair with counts:  1324
+
+1TGGTCA2TCAAGT.txt
+PEread internal: 9811
+PEread nonInternal: 53086
+PEread short insert <20bp: 3085
+PEread long insert >=20bp: 50001
+Before filter q20: 50001
+After filter q20: 11434
+Total nonInternal Read long: 11434
+Total Unique NonInternal Read Long Pair:  1134
+Total nonInternal Read long: 11434
+Total Unique NonInternal Read Long Pair with counts:  1134
+
+1CACTGT2TCAAGT.txt
+PEread internal: 11242
+PEread nonInternal: 59850
+PEread short insert <20bp: 3384
+PEread long insert >=20bp: 56466
+Before filter q20: 56466
+After filter q20: 13678
+Total nonInternal Read long: 13678
+Total Unique NonInternal Read Long Pair:  1137
+Total nonInternal Read long: 13678
+Total Unique NonInternal Read Long Pair with counts:  1137
+
+1TGACCA2TCAAGT.txt
+PEread internal: 12751
+PEread nonInternal: 59725
+PEread short insert <20bp: 5789
+PEread long insert >=20bp: 53936
+Before filter q20: 53936
+After filter q20: 14730
+Total nonInternal Read long: 14730
+Total Unique NonInternal Read Long Pair:  1242
+Total nonInternal Read long: 14730
+Total Unique NonInternal Read Long Pair with counts:  1242
+
+1CGTACG2TCAAGT.txt
+PEread internal: 8928
+PEread nonInternal: 32636
+PEread short insert <20bp: 62
+PEread long insert >=20bp: 32574
+Before filter q20: 32574
+After filter q20: 17288
+Total nonInternal Read long: 17288
+Total Unique NonInternal Read Long Pair:  764
+Total nonInternal Read long: 17288
+Total Unique NonInternal Read Long Pair with counts:  764
+
+1CGTGAT2CTGATC.txt
+PEread internal: 10667
+PEread nonInternal: 61082
+PEread short insert <20bp: 4873
+PEread long insert >=20bp: 56209
+Before filter q20: 56209
+After filter q20: 10302
+Total nonInternal Read long: 10302
+Total Unique NonInternal Read Long Pair:  1282
+Total nonInternal Read long: 10302
+Total Unique NonInternal Read Long Pair with counts:  1282
+
+1ACATCG2CTGATC.txt
+PEread internal: 14740
+PEread nonInternal: 63731
+PEread short insert <20bp: 5698
+PEread long insert >=20bp: 58033
+Before filter q20: 58033
+After filter q20: 18363
+Total nonInternal Read long: 18363
+Total Unique NonInternal Read Long Pair:  1619
+Total nonInternal Read long: 18363
+Total Unique NonInternal Read Long Pair with counts:  1619
+
+1GCCTAA2CTGATC.txt
+PEread internal: 15027
+PEread nonInternal: 66797
+PEread short insert <20bp: 4388
+PEread long insert >=20bp: 62409
+Before filter q20: 62409
+After filter q20: 16853
+Total nonInternal Read long: 16853
+Total Unique NonInternal Read Long Pair:  1569
+Total nonInternal Read long: 16853
+Total Unique NonInternal Read Long Pair with counts:  1569
+
+1TGGTCA2CTGATC.txt
+PEread internal: 11106
+PEread nonInternal: 66207
+PEread short insert <20bp: 11193
+PEread long insert >=20bp: 55014
+Before filter q20: 55014
+After filter q20: 12625
+Total nonInternal Read long: 12625
+Total Unique NonInternal Read Long Pair:  1311
+Total nonInternal Read long: 12625
+Total Unique NonInternal Read Long Pair with counts:  1311
+
+1CACTGT2CTGATC.txt
+PEread internal: 11866
+PEread nonInternal: 73755
+PEread short insert <20bp: 7051
+PEread long insert >=20bp: 66704
+Before filter q20: 66704
+After filter q20: 13379
+Total nonInternal Read long: 13379
+Total Unique NonInternal Read Long Pair:  1368
+Total nonInternal Read long: 13379
+Total Unique NonInternal Read Long Pair with counts:  1368
+
+1TGACCA2CTGATC.txt
+PEread internal: 11982
+PEread nonInternal: 70589
+PEread short insert <20bp: 9494
+PEread long insert >=20bp: 61095
+Before filter q20: 61095
+After filter q20: 15979
+Total nonInternal Read long: 15979
+Total Unique NonInternal Read Long Pair:  1466
+Total nonInternal Read long: 15979
+Total Unique NonInternal Read Long Pair with counts:  1466
+
+1CGTACG2CTGATC.txt
+PEread internal: 15091
+PEread nonInternal: 69817
+PEread short insert <20bp: 5951
+PEread long insert >=20bp: 63866
+Before filter q20: 63866
+After filter q20: 13877
+Total nonInternal Read long: 13877
+Total Unique NonInternal Read Long Pair:  1508
+Total nonInternal Read long: 13877
+Total Unique NonInternal Read Long Pair with counts:  1508
+
+1CGTGAT2TAGCTT.txt
+
+1ACATCG2TAGCTT.txt
+
+1GCCTAA2TAGCTT.txt
+
+1TGGTCA2TAGCTT.txt
+
+1CACTGT2TAGCTT.txt
+
+1TGACCA2TAGCTT.txt
+
+1CGTACG2TAGCTT.txt
+
+1CGTGAT2CTTGTA.txt
+
+1ACATCG2CTTGTA.txt
+
+1GCCTAA2CTTGTA.txt
+
+1TGGTCA2CTTGTA.txt
+
+1CACTGT2CTTGTA.txt
+
+1TGACCA2CTTGTA.txt
+
+1CGTACG2CTTGTA.txt
+
+1CGTGAT2ATTGGC.txt
+
+1ACATCG2ATTGGC.txt
+
+1GCCTAA2ATTGGC.txt
+
+1TGGTCA2ATTGGC.txt
+
+1CACTGT2ATTGGC.txt
+
+1TGACCA2ATTGGC.txt
+
+1CGTACG2ATTGGC.txt
+
+1CGTGAT2GATCTG.txt
+
+1ACATCG2GATCTG.txt
+
+1GCCTAA2GATCTG.txt
+
+1TGGTCA2GATCTG.txt
+
+1CACTGT2GATCTG.txt
+
+1TGACCA2GATCTG.txt
+
+1CGTACG2GATCTG.txt
+
+1CGTGAT2TCAAGT.txt
+
+1ACATCG2TCAAGT.txt
+
+1GCCTAA2TCAAGT.txt
+
+1TGGTCA2TCAAGT.txt
+
+1CACTGT2TCAAGT.txt
+
+1TGACCA2TCAAGT.txt
+
+1CGTACG2TCAAGT.txt
+
+1CGTGAT2CTGATC.txt
+
+1ACATCG2CTGATC.txt
+
+1GCCTAA2CTGATC.txt
+
+1TGGTCA2CTGATC.txt
+
+1CACTGT2CTGATC.txt
+
+1TGACCA2CTGATC.txt
+
+1CGTACG2CTGATC.txt

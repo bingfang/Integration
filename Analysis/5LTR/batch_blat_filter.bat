@@ -1,0 +1,7 @@
+perl batch_blatfilter1_startin3bpLen20bp.pl
+perl batch_blatfilter2_count_best.pl
+perl batch_blatfilter3_FindRIS_Wct.pl
+perl batch_blatfilter4_uniqueChrCorPair_Wct.pl
+perl batch_blatfilter5_PairedEndMatch.pl
+perl batch_blatfilter6_mergeR.pl
+perl batch_blatfilter7_mergeL.pl

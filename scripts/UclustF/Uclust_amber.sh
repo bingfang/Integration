@@ -1,0 +1,10 @@
+perl 1sort_and_expand.pl
+perl 2findcluster_AddSeqToCluster.pl
+perl 3MajorClusterBlat.pl
+perl 4batch_blatfilter1_sortblat.pl
+perl 5blat_summary.pl
+perl 6find_microsatellites_amber.pl		
+perl 7ClusterBlat_amber.pl		
+perl 8batch_blatfilter1_sortblat.pl	
+perl 9blat_summary.pl
+perl 10select_unknown_clones_amber.pl
